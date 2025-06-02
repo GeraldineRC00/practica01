@@ -1,0 +1,5320 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"  />
+</head>
+
+<body>
+
+<table width="2025" border="0">
+  <tr>
+    <td width="66">Dato</td>
+    <td width="199">Nombre</td>
+    <td width="178">Apellido Paterno </td>
+    <td width="205">Apellido Materno </td>
+    <td width="100">Folio Grupo </td>
+    <td width="608">Materia</td>
+    <td width="97">Num Alumnos </td>
+    <td width="89">Reprobados</td>
+    <td width="121">% Reprobacion </td>
+    <td width="104">% Aprobacion </td>
+    <td width="139">Suma Calificaciones </td>
+    <td width="69">Promedio</td>
+  </tr>
+
+
+    <tr>
+ 	    <td>  </td>
+	    <td>ABIGAIL</td>
+	    <td>VARGAS</td>
+	    <td>VICENTE</td>
+	    <td>01A2A</td>
+	    <td>Ciencias Sociales II</td>
+	    <td>29</td>
+	    <td>3</td>
+		<td>10.34</td>
+	    <td>89.66</td>
+	    <td>233.9</td>
+		<td>8.07</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ABIGAIL</td>
+	    <td>VARGAS</td>
+	    <td>VICENTE</td>
+	    <td>01C2B</td>
+	    <td>Ciencias Sociales II</td>
+	    <td>32</td>
+	    <td>3</td>
+		<td>9.38</td>
+	    <td>90.62</td>
+	    <td>239.7</td>
+		<td>7.49</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ABIGAIL</td>
+	    <td>VARGAS</td>
+	    <td>VICENTE</td>
+	    <td>01AD2D</td>
+	    <td>Ciencias Sociales II</td>
+	    <td>43</td>
+	    <td>5</td>
+		<td>11.63</td>
+	    <td>88.37</td>
+	    <td>337.5</td>
+		<td>7.85</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ABIGAIL</td>
+	    <td>VARGAS</td>
+	    <td>VICENTE</td>
+	    <td>01AD2E</td>
+	    <td>Ciencias Sociales II</td>
+	    <td>41</td>
+	    <td>12</td>
+		<td>29.27</td>
+	    <td>70.73</td>
+	    <td>303.6</td>
+		<td>7.4</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ABIGAIL</td>
+	    <td>VARGAS</td>
+	    <td>VICENTE</td>
+	    <td>01P2K</td>
+	    <td>Ciencias Sociales II</td>
+	    <td>44</td>
+	    <td>4</td>
+		<td>9.09</td>
+	    <td>90.91</td>
+	    <td>393.6</td>
+		<td>8.95</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ABIGAIL</td>
+	    <td>VARGAS</td>
+	    <td>VICENTE</td>
+	    <td>01P2L</td>
+	    <td>Ciencias Sociales II</td>
+	    <td>45</td>
+	    <td>3</td>
+		<td>6.67</td>
+	    <td>93.33</td>
+	    <td>403.5</td>
+		<td>8.97</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ABIGAIL</td>
+	    <td>VARGAS</td>
+	    <td>VICENTE</td>
+	    <td>01AS6M</td>
+	    <td>HISTORIA</td>
+	    <td>34</td>
+	    <td>1</td>
+		<td>2.94</td>
+	    <td>97.06</td>
+	    <td>279.1</td>
+		<td>8.21</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ABIGAIL</td>
+	    <td>VARGAS</td>
+	    <td>VICENTE</td>
+	    <td>01AS6D</td>
+	    <td>INTRODUCCIÓN AL DERECHO</td>
+	    <td>25</td>
+	    <td>2</td>
+		<td>8</td>
+	    <td>92</td>
+	    <td>200.4</td>
+		<td>8.02</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ABIGAIL</td>
+	    <td>VARGAS</td>
+	    <td>VICENTE</td>
+	    <td>01AS6N</td>
+	    <td>LITERATURA</td>
+	    <td>37</td>
+	    <td>1</td>
+		<td>2.7</td>
+	    <td>97.3</td>
+	    <td>309.3</td>
+		<td>8.36</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ABIGAIL</td>
+	    <td>VARGAS</td>
+	    <td>VICENTE</td>
+	    <td>01AS6O</td>
+	    <td>LITERATURA</td>
+	    <td>34</td>
+	    <td>2</td>
+		<td>5.88</td>
+	    <td>94.12</td>
+	    <td>292.7</td>
+		<td>8.61</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ABIGAIL</td>
+	    <td>VARGAS</td>
+	    <td>VICENTE</td>
+	    <td>01AS6P</td>
+	    <td>LITERATURA</td>
+	    <td>23</td>
+	    <td>3</td>
+		<td>13.04</td>
+	    <td>86.96</td>
+	    <td>179.2</td>
+		<td>7.79</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ABIGAIL</td>
+	    <td>VARGAS</td>
+	    <td>VICENTE</td>
+	    <td>01AO2E</td>
+	    <td>TUTORÍAS</td>
+	    <td>41</td>
+	    <td>9</td>
+		<td>21.95</td>
+	    <td>78.05</td>
+	    <td>313.9</td>
+		<td>7.66</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ABIGAIL</td>
+	    <td>VARGAS</td>
+	    <td>VICENTE</td>
+	    <td>01AO2K</td>
+	    <td>TUTORÍAS</td>
+	    <td>44</td>
+	    <td>6</td>
+		<td>13.64</td>
+	    <td>86.36</td>
+	    <td>399.5</td>
+		<td>9.08</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ABIGAIL</td>
+	    <td>VARGAS</td>
+	    <td>VICENTE</td>
+	    <td>01AO6F</td>
+	    <td>TUTORÍAS</td>
+	    <td>46</td>
+	    <td>2</td>
+		<td>4.35</td>
+	    <td>95.65</td>
+	    <td>411.1</td>
+		<td>8.94</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>ABIGAIL</td>
+	    <td>VARGAS</td>
+	    <td>VICENTE</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>518</td>
+	    <td>56</td>
+		<td>10.81</td>
+	    <td>89.19</td>
+	    <td>4297</td>
+		<td>8.3</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>ANA MARÍA</td>
+	    <td>ARTEAGA</td>
+	    <td>TREJO</td>
+	    <td>01V6F</td>
+	    <td>TEMAS DE FILOSOFIA</td>
+	    <td>46</td>
+	    <td>6</td>
+		<td>13.04</td>
+	    <td>86.96</td>
+	    <td>361.5</td>
+		<td>7.86</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ANA MARÍA</td>
+	    <td>ARTEAGA</td>
+	    <td>TREJO</td>
+	    <td>01V6G</td>
+	    <td>TEMAS DE FILOSOFIA</td>
+	    <td>43</td>
+	    <td>1</td>
+		<td>2.33</td>
+	    <td>97.67</td>
+	    <td>354.7</td>
+		<td>8.25</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ANA MARÍA</td>
+	    <td>ARTEAGA</td>
+	    <td>TREJO</td>
+	    <td>01AJ6H</td>
+	    <td>TEMAS DE FILOSOFIA</td>
+	    <td>41</td>
+	    <td>3</td>
+		<td>7.32</td>
+	    <td>92.68</td>
+	    <td>330.9</td>
+		<td>8.07</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ANA MARÍA</td>
+	    <td>ARTEAGA</td>
+	    <td>TREJO</td>
+	    <td>01AJ6I</td>
+	    <td>TEMAS DE FILOSOFIA</td>
+	    <td>37</td>
+	    <td>4</td>
+		<td>10.81</td>
+	    <td>89.19</td>
+	    <td>295.6</td>
+		<td>7.99</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ANA MARÍA</td>
+	    <td>ARTEAGA</td>
+	    <td>TREJO</td>
+	    <td>01AJ6J</td>
+	    <td>TEMAS DE FILOSOFIA</td>
+	    <td>37</td>
+	    <td>5</td>
+		<td>13.51</td>
+	    <td>86.49</td>
+	    <td>299.7</td>
+		<td>8.1</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ANA MARÍA</td>
+	    <td>ARTEAGA</td>
+	    <td>TREJO</td>
+	    <td>01AE6M</td>
+	    <td>TEMAS DE FILOSOFIA</td>
+	    <td>35</td>
+	    <td>3</td>
+		<td>8.57</td>
+	    <td>91.43</td>
+	    <td>261.2</td>
+		<td>7.46</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>ANA MARÍA</td>
+	    <td>ARTEAGA</td>
+	    <td>TREJO</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>239</td>
+	    <td>22</td>
+		<td>9.21</td>
+	    <td>90.79</td>
+	    <td>1903.6</td>
+		<td>7.96</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>ANGÉLICA MARÍA</td>
+	    <td>BARRANCO</td>
+	    <td>IBARRA</td>
+	    <td>01AD4D</td>
+	    <td>I. Prepara productos de panadería de acuerdo al recetario base</td>
+	    <td>33</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>293.6</td>
+		<td>8.9</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ANGÉLICA MARÍA</td>
+	    <td>BARRANCO</td>
+	    <td>IBARRA</td>
+	    <td>01AD4E</td>
+	    <td>I. Prepara productos de panadería de acuerdo al recetario base</td>
+	    <td>37</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>338.7</td>
+		<td>9.15</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ANGÉLICA MARÍA</td>
+	    <td>BARRANCO</td>
+	    <td>IBARRA</td>
+	    <td>01AD2D</td>
+	    <td>II Prepara entradas de acuerdo con la receta estándar y el presupuesto</td>
+	    <td>43</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>349.7</td>
+		<td>8.13</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ANGÉLICA MARÍA</td>
+	    <td>BARRANCO</td>
+	    <td>IBARRA</td>
+	    <td>01AD2E</td>
+	    <td>II Prepara entradas de acuerdo con la receta estándar y el presupuesto</td>
+	    <td>41</td>
+	    <td>4</td>
+		<td>9.76</td>
+	    <td>90.24</td>
+	    <td>315</td>
+		<td>7.68</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>ANGÉLICA MARÍA</td>
+	    <td>BARRANCO</td>
+	    <td>IBARRA</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>154</td>
+	    <td>4</td>
+		<td>2.6</td>
+	    <td>97.4</td>
+	    <td>1297</td>
+		<td>8.42</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>ANTONIO</td>
+	    <td>RODRÍGUEZ</td>
+	    <td>MAYORGA</td>
+	    <td>01AS6T</td>
+	    <td>INTRODUCCIÓN A LA BIOQUIMICA</td>
+	    <td>41</td>
+	    <td>1</td>
+		<td>2.44</td>
+	    <td>97.56</td>
+	    <td>348</td>
+		<td>8.49</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ANTONIO</td>
+	    <td>RODRÍGUEZ</td>
+	    <td>MAYORGA</td>
+	    <td>01P2L</td>
+	    <td>La Conservacion de la energia y su Interaccion con la Materia</td>
+	    <td>45</td>
+	    <td>17</td>
+		<td>37.78</td>
+	    <td>62.22</td>
+	    <td>297.2</td>
+		<td>6.6</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ANTONIO</td>
+	    <td>RODRÍGUEZ</td>
+	    <td>MAYORGA</td>
+	    <td>01AE2M</td>
+	    <td>La Conservacion de la energia y su Interaccion con la Materia</td>
+	    <td>35</td>
+	    <td>25</td>
+		<td>71.43</td>
+	    <td>28.57</td>
+	    <td>199.2</td>
+		<td>5.69</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ANTONIO</td>
+	    <td>RODRÍGUEZ</td>
+	    <td>MAYORGA</td>
+	    <td>01A2A</td>
+	    <td>La Conservacion de la energia y su Interaccion con la Materia</td>
+	    <td>29</td>
+	    <td>10</td>
+		<td>34.48</td>
+	    <td>65.52</td>
+	    <td>213.5</td>
+		<td>7.36</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ANTONIO</td>
+	    <td>RODRÍGUEZ</td>
+	    <td>MAYORGA</td>
+	    <td>01AD2D</td>
+	    <td>La Conservacion de la energia y su Interaccion con la Materia</td>
+	    <td>43</td>
+	    <td>32</td>
+		<td>74.42</td>
+	    <td>25.58</td>
+	    <td>241.2</td>
+		<td>5.61</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ANTONIO</td>
+	    <td>RODRÍGUEZ</td>
+	    <td>MAYORGA</td>
+	    <td>01AD2E</td>
+	    <td>La Conservacion de la energia y su Interaccion con la Materia</td>
+	    <td>41</td>
+	    <td>26</td>
+		<td>63.41</td>
+	    <td>36.59</td>
+	    <td>240.5</td>
+		<td>5.87</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ANTONIO</td>
+	    <td>RODRÍGUEZ</td>
+	    <td>MAYORGA</td>
+	    <td>01P2K</td>
+	    <td>La Conservacion de la energia y su Interaccion con la Materia</td>
+	    <td>44</td>
+	    <td>24</td>
+		<td>54.55</td>
+	    <td>45.45</td>
+	    <td>285.3</td>
+		<td>6.48</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ANTONIO</td>
+	    <td>RODRÍGUEZ</td>
+	    <td>MAYORGA</td>
+	    <td>01AO2D</td>
+	    <td>TUTORÍAS</td>
+	    <td>43</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>430</td>
+		<td>10</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>ANTONIO</td>
+	    <td>RODRÍGUEZ</td>
+	    <td>MAYORGA</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>321</td>
+	    <td>135</td>
+		<td>42.06</td>
+	    <td>57.94</td>
+	    <td>2254.9</td>
+		<td>7.02</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>BRANDON</td>
+	    <td>RIVERA</td>
+	    <td>CORONA</td>
+	    <td>01AJ2H</td>
+	    <td>III Implementa software de sistemas informáticos</td>
+	    <td>39</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>387.9</td>
+		<td>9.95</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>BRANDON</td>
+	    <td>RIVERA</td>
+	    <td>CORONA</td>
+	    <td>01AJ2I</td>
+	    <td>III Implementa software de sistemas informáticos</td>
+	    <td>40</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>393</td>
+		<td>9.83</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>BRANDON</td>
+	    <td>RIVERA</td>
+	    <td>CORONA</td>
+	    <td>01AE6M</td>
+	    <td>Submódulo 1 Instala una red LAN</td>
+	    <td>35</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>336.8</td>
+		<td>9.62</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>BRANDON</td>
+	    <td>RIVERA</td>
+	    <td>CORONA</td>
+	    <td>01AJ6H</td>
+	    <td>Submódulo 2 Desarrolla aplicaciones móviles para IOS</td>
+	    <td>41</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>408</td>
+		<td>9.95</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>BRANDON</td>
+	    <td>RIVERA</td>
+	    <td>CORONA</td>
+	    <td>01AJ6I</td>
+	    <td>Submódulo 2 Desarrolla aplicaciones móviles para IOS</td>
+	    <td>37</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>363.2</td>
+		<td>9.82</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>BRANDON</td>
+	    <td>RIVERA</td>
+	    <td>CORONA</td>
+	    <td>01AJ6J</td>
+	    <td>Submódulo 2 Desarrolla aplicaciones móviles para IOS</td>
+	    <td>37</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>362</td>
+		<td>9.78</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>BRANDON</td>
+	    <td>RIVERA</td>
+	    <td>CORONA</td>
+	    <td>01AO6H</td>
+	    <td>TUTORÍAS</td>
+	    <td>41</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>410</td>
+		<td>10</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>BRANDON</td>
+	    <td>RIVERA</td>
+	    <td>CORONA</td>
+	    <td>01AO6I</td>
+	    <td>TUTORÍAS</td>
+	    <td>37</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>370</td>
+		<td>10</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>BRANDON</td>
+	    <td>RIVERA</td>
+	    <td>CORONA</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>307</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>3030.9</td>
+		<td>9.87</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>CECILIA</td>
+	    <td>GARCÍA</td>
+	    <td>CRUZ</td>
+	    <td>01AD2D</td>
+	    <td>Lengua y comunicación II</td>
+	    <td>43</td>
+	    <td>18</td>
+		<td>41.86</td>
+	    <td>58.14</td>
+	    <td>273.3</td>
+		<td>6.36</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>CECILIA</td>
+	    <td>GARCÍA</td>
+	    <td>CRUZ</td>
+	    <td>01AE2M</td>
+	    <td>Lengua y comunicación II</td>
+	    <td>35</td>
+	    <td>20</td>
+		<td>57.14</td>
+	    <td>42.86</td>
+	    <td>203.3</td>
+		<td>5.81</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>CECILIA</td>
+	    <td>GARCÍA</td>
+	    <td>CRUZ</td>
+	    <td>01C2B</td>
+	    <td>Lengua y comunicación II</td>
+	    <td>32</td>
+	    <td>10</td>
+		<td>31.25</td>
+	    <td>68.75</td>
+	    <td>207.2</td>
+		<td>6.48</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>CECILIA</td>
+	    <td>GARCÍA</td>
+	    <td>CRUZ</td>
+	    <td>01C2C</td>
+	    <td>Lengua y comunicación II</td>
+	    <td>27</td>
+	    <td>17</td>
+		<td>62.96</td>
+	    <td>37.04</td>
+	    <td>162.6</td>
+		<td>6.02</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>CECILIA</td>
+	    <td>GARCÍA</td>
+	    <td>CRUZ</td>
+	    <td>01C6B</td>
+	    <td>TEMAS DE FILOSOFIA</td>
+	    <td>19</td>
+	    <td>7</td>
+		<td>36.84</td>
+	    <td>63.16</td>
+	    <td>117.8</td>
+		<td>6.2</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>CECILIA</td>
+	    <td>GARCÍA</td>
+	    <td>CRUZ</td>
+	    <td>01C6C</td>
+	    <td>TEMAS DE FILOSOFIA</td>
+	    <td>16</td>
+	    <td>2</td>
+		<td>12.5</td>
+	    <td>87.5</td>
+	    <td>109.2</td>
+		<td>6.83</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>CECILIA</td>
+	    <td>GARCÍA</td>
+	    <td>CRUZ</td>
+	    <td>01P6K</td>
+	    <td>TEMAS DE FILOSOFIA</td>
+	    <td>40</td>
+	    <td>18</td>
+		<td>45</td>
+	    <td>55</td>
+	    <td>254.2</td>
+		<td>6.36</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>CECILIA</td>
+	    <td>GARCÍA</td>
+	    <td>CRUZ</td>
+	    <td>01P6L</td>
+	    <td>TEMAS DE FILOSOFIA</td>
+	    <td>44</td>
+	    <td>15</td>
+		<td>34.09</td>
+	    <td>65.91</td>
+	    <td>285.9</td>
+		<td>6.5</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>CECILIA</td>
+	    <td>GARCÍA</td>
+	    <td>CRUZ</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>256</td>
+	    <td>107</td>
+		<td>41.8</td>
+	    <td>58.2</td>
+	    <td>1613.5</td>
+		<td>6.3</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>ERENDIRA</td>
+	    <td>GARCÍA</td>
+	    <td>NÚÑEZ</td>
+	    <td>01AJ4I</td>
+	    <td>Temas selectos de matemáticas I </td>
+	    <td>30</td>
+	    <td>8</td>
+		<td>26.67</td>
+	    <td>73.33</td>
+	    <td>208.9</td>
+		<td>6.96</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ERENDIRA</td>
+	    <td>GARCÍA</td>
+	    <td>NÚÑEZ</td>
+	    <td>01AJ4J</td>
+	    <td>Temas selectos de matemáticas I </td>
+	    <td>28</td>
+	    <td>3</td>
+		<td>10.71</td>
+	    <td>89.29</td>
+	    <td>208</td>
+		<td>7.43</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ERENDIRA</td>
+	    <td>GARCÍA</td>
+	    <td>NÚÑEZ</td>
+	    <td>01C4B</td>
+	    <td>Temas selectos de matemáticas I </td>
+	    <td>21</td>
+	    <td>5</td>
+		<td>23.81</td>
+	    <td>76.19</td>
+	    <td>155.3</td>
+		<td>7.4</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ERENDIRA</td>
+	    <td>GARCÍA</td>
+	    <td>NÚÑEZ</td>
+	    <td>01C4C</td>
+	    <td>Temas selectos de matemáticas I </td>
+	    <td>21</td>
+	    <td>13</td>
+		<td>61.9</td>
+	    <td>38.1</td>
+	    <td>127.6</td>
+		<td>6.08</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ERENDIRA</td>
+	    <td>GARCÍA</td>
+	    <td>NÚÑEZ</td>
+	    <td>01AD4E</td>
+	    <td>Temas selectos de matemáticas I </td>
+	    <td>37</td>
+	    <td>5</td>
+		<td>13.51</td>
+	    <td>86.49</td>
+	    <td>261.9</td>
+		<td>7.08</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ERENDIRA</td>
+	    <td>GARCÍA</td>
+	    <td>NÚÑEZ</td>
+	    <td>01V4F</td>
+	    <td>Temas selectos de matemáticas I </td>
+	    <td>37</td>
+	    <td>7</td>
+		<td>18.92</td>
+	    <td>81.08</td>
+	    <td>271.2</td>
+		<td>7.33</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ERENDIRA</td>
+	    <td>GARCÍA</td>
+	    <td>NÚÑEZ</td>
+	    <td>01V4G</td>
+	    <td>Temas selectos de matemáticas I </td>
+	    <td>34</td>
+	    <td>2</td>
+		<td>5.88</td>
+	    <td>94.12</td>
+	    <td>263.7</td>
+		<td>7.76</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ERENDIRA</td>
+	    <td>GARCÍA</td>
+	    <td>NÚÑEZ</td>
+	    <td>01AJ4H</td>
+	    <td>Temas selectos de matemáticas I </td>
+	    <td>33</td>
+	    <td>11</td>
+		<td>33.33</td>
+	    <td>66.67</td>
+	    <td>221.3</td>
+		<td>6.71</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>ERENDIRA</td>
+	    <td>GARCÍA</td>
+	    <td>NÚÑEZ</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>241</td>
+	    <td>54</td>
+		<td>22.41</td>
+	    <td>77.59</td>
+	    <td>1717.9</td>
+		<td>7.13</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>FELIPE PABLO</td>
+	    <td>PÉREZ</td>
+	    <td>FLORES</td>
+	    <td>01C2C</td>
+	    <td>Ciencias Sociales II</td>
+	    <td>27</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>228.3</td>
+		<td>8.46</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>FELIPE PABLO</td>
+	    <td>PÉREZ</td>
+	    <td>FLORES</td>
+	    <td>01V2F</td>
+	    <td>Ciencias Sociales II</td>
+	    <td>47</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>391.2</td>
+		<td>8.32</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>FELIPE PABLO</td>
+	    <td>PÉREZ</td>
+	    <td>FLORES</td>
+	    <td>01AS6A</td>
+	    <td>INTRODUCCIÓN A LA ECONOMÍA</td>
+	    <td>25</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>222</td>
+		<td>8.88</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>FELIPE PABLO</td>
+	    <td>PÉREZ</td>
+	    <td>FLORES</td>
+	    <td>01AS6B</td>
+	    <td>INTRODUCCIÓN A LA ECONOMÍA</td>
+	    <td>27</td>
+	    <td>1</td>
+		<td>3.7</td>
+	    <td>96.3</td>
+	    <td>243.5</td>
+		<td>9.02</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>FELIPE PABLO</td>
+	    <td>PÉREZ</td>
+	    <td>FLORES</td>
+	    <td>01AS6C</td>
+	    <td>INTRODUCCIÓN A LA ECONOMÍA</td>
+	    <td>49</td>
+	    <td>1</td>
+		<td>2.04</td>
+	    <td>97.96</td>
+	    <td>400.8</td>
+		<td>8.18</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>FELIPE PABLO</td>
+	    <td>PÉREZ</td>
+	    <td>FLORES</td>
+	    <td>01AS6F</td>
+	    <td>TEMAS DE ADMINISTRACIÓN</td>
+	    <td>49</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>437.2</td>
+		<td>8.92</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>FELIPE PABLO</td>
+	    <td>PÉREZ</td>
+	    <td>FLORES</td>
+	    <td>01AD6E</td>
+	    <td>TEMAS DE FILOSOFIA</td>
+	    <td>38</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>327.3</td>
+		<td>8.61</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>FELIPE PABLO</td>
+	    <td>PÉREZ</td>
+	    <td>FLORES</td>
+	    <td>01A6A</td>
+	    <td>TEMAS DE FILOSOFIA</td>
+	    <td>29</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>268.8</td>
+		<td>9.27</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>FELIPE PABLO</td>
+	    <td>PÉREZ</td>
+	    <td>FLORES</td>
+	    <td>01AD6D</td>
+	    <td>TEMAS DE FILOSOFIA</td>
+	    <td>40</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>340.9</td>
+		<td>8.52</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>FELIPE PABLO</td>
+	    <td>PÉREZ</td>
+	    <td>FLORES</td>
+	    <td>01AO2F</td>
+	    <td>TUTORÍAS</td>
+	    <td>47</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>440.4</td>
+		<td>9.37</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>FELIPE PABLO</td>
+	    <td>PÉREZ</td>
+	    <td>FLORES</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>378</td>
+	    <td>2</td>
+		<td>0.53</td>
+	    <td>99.47</td>
+	    <td>3300.4</td>
+		<td>8.73</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>FRANK</td>
+	    <td>TORRES</td>
+	    <td>TORRES</td>
+	    <td>01AJ4J</td>
+	    <td>Reacciones químicas: conservación de la materia en la formación de nuevas sustancias</td>
+	    <td>28</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>233.8</td>
+		<td>8.35</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>FRANK</td>
+	    <td>TORRES</td>
+	    <td>TORRES</td>
+	    <td>01P4K</td>
+	    <td>Reacciones químicas: conservación de la materia en la formación de nuevas sustancias</td>
+	    <td>38</td>
+	    <td>3</td>
+		<td>7.89</td>
+	    <td>92.11</td>
+	    <td>310.5</td>
+		<td>8.17</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>FRANK</td>
+	    <td>TORRES</td>
+	    <td>TORRES</td>
+	    <td>01A4A</td>
+	    <td>Reacciones químicas: conservación de la materia en la formación de nuevas sustancias</td>
+	    <td>30</td>
+	    <td>2</td>
+		<td>6.67</td>
+	    <td>93.33</td>
+	    <td>248.5</td>
+		<td>8.28</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>FRANK</td>
+	    <td>TORRES</td>
+	    <td>TORRES</td>
+	    <td>01AD4D</td>
+	    <td>Reacciones químicas: conservación de la materia en la formación de nuevas sustancias</td>
+	    <td>33</td>
+	    <td>6</td>
+		<td>18.18</td>
+	    <td>81.82</td>
+	    <td>252.7</td>
+		<td>7.66</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>FRANK</td>
+	    <td>TORRES</td>
+	    <td>TORRES</td>
+	    <td>01AD4E</td>
+	    <td>Reacciones químicas: conservación de la materia en la formación de nuevas sustancias</td>
+	    <td>37</td>
+	    <td>8</td>
+		<td>21.62</td>
+	    <td>78.38</td>
+	    <td>263.3</td>
+		<td>7.12</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>FRANK</td>
+	    <td>TORRES</td>
+	    <td>TORRES</td>
+	    <td>01AJ4H</td>
+	    <td>Reacciones químicas: conservación de la materia en la formación de nuevas sustancias</td>
+	    <td>33</td>
+	    <td>7</td>
+		<td>21.21</td>
+	    <td>78.79</td>
+	    <td>244.5</td>
+		<td>7.41</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>FRANK</td>
+	    <td>TORRES</td>
+	    <td>TORRES</td>
+	    <td>01AJ4I</td>
+	    <td>Reacciones químicas: conservación de la materia en la formación de nuevas sustancias</td>
+	    <td>30</td>
+	    <td>4</td>
+		<td>13.33</td>
+	    <td>86.67</td>
+	    <td>228.3</td>
+		<td>7.61</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>FRANK</td>
+	    <td>TORRES</td>
+	    <td>TORRES</td>
+	    <td>01AO4I</td>
+	    <td>TUTORÍAS</td>
+	    <td>30</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>300</td>
+		<td>10</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>FRANK</td>
+	    <td>TORRES</td>
+	    <td>TORRES</td>
+	    <td>01AO4H</td>
+	    <td>TUTORÍAS</td>
+	    <td>33</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>330</td>
+		<td>10</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>FRANK</td>
+	    <td>TORRES</td>
+	    <td>TORRES</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>292</td>
+	    <td>30</td>
+		<td>10.27</td>
+	    <td>89.73</td>
+	    <td>2411.6</td>
+		<td>8.26</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>GENESIS MONSERRAT</td>
+	    <td>GARCÍA</td>
+	    <td>DE LA ROSA</td>
+	    <td>01V2F</td>
+	    <td>Cultura Digital II</td>
+	    <td>47</td>
+	    <td>5</td>
+		<td>10.64</td>
+	    <td>89.36</td>
+	    <td>424.8</td>
+		<td>9.04</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>GENESIS MONSERRAT</td>
+	    <td>GARCÍA</td>
+	    <td>DE LA ROSA</td>
+	    <td>01V2G</td>
+	    <td>Cultura Digital II</td>
+	    <td>45</td>
+	    <td>7</td>
+		<td>15.56</td>
+	    <td>84.44</td>
+	    <td>401.6</td>
+		<td>8.92</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>GENESIS MONSERRAT</td>
+	    <td>GARCÍA</td>
+	    <td>DE LA ROSA</td>
+	    <td>01AJ2H</td>
+	    <td>Cultura Digital II</td>
+	    <td>39</td>
+	    <td>12</td>
+		<td>30.77</td>
+	    <td>69.23</td>
+	    <td>312.2</td>
+		<td>8.01</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>GENESIS MONSERRAT</td>
+	    <td>GARCÍA</td>
+	    <td>DE LA ROSA</td>
+	    <td>01AJ2I</td>
+	    <td>Cultura Digital II</td>
+	    <td>40</td>
+	    <td>9</td>
+		<td>22.5</td>
+	    <td>77.5</td>
+	    <td>330.3</td>
+		<td>8.26</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>GENESIS MONSERRAT</td>
+	    <td>GARCÍA</td>
+	    <td>DE LA ROSA</td>
+	    <td>01A2A</td>
+	    <td>Cultura Digital II</td>
+	    <td>29</td>
+	    <td>2</td>
+		<td>6.9</td>
+	    <td>93.1</td>
+	    <td>279.8</td>
+		<td>9.65</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>GENESIS MONSERRAT</td>
+	    <td>GARCÍA</td>
+	    <td>DE LA ROSA</td>
+	    <td>01AJ2J</td>
+	    <td>Cultura Digital II</td>
+	    <td>38</td>
+	    <td>10</td>
+		<td>26.32</td>
+	    <td>73.68</td>
+	    <td>308.3</td>
+		<td>8.11</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>GENESIS MONSERRAT</td>
+	    <td>GARCÍA</td>
+	    <td>DE LA ROSA</td>
+	    <td>01C2B</td>
+	    <td>Cultura Digital II</td>
+	    <td>32</td>
+	    <td>5</td>
+		<td>15.63</td>
+	    <td>84.37</td>
+	    <td>265.8</td>
+		<td>8.31</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>GENESIS MONSERRAT</td>
+	    <td>GARCÍA</td>
+	    <td>DE LA ROSA</td>
+	    <td>01P2K</td>
+	    <td>Cultura Digital II</td>
+	    <td>44</td>
+	    <td>5</td>
+		<td>11.36</td>
+	    <td>88.64</td>
+	    <td>394.6</td>
+		<td>8.97</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>GENESIS MONSERRAT</td>
+	    <td>GARCÍA</td>
+	    <td>DE LA ROSA</td>
+	    <td>01C2C</td>
+	    <td>Cultura Digital II</td>
+	    <td>27</td>
+	    <td>8</td>
+		<td>29.63</td>
+	    <td>70.37</td>
+	    <td>217.6</td>
+		<td>8.06</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>GENESIS MONSERRAT</td>
+	    <td>GARCÍA</td>
+	    <td>DE LA ROSA</td>
+	    <td>01P2L</td>
+	    <td>Cultura Digital II</td>
+	    <td>45</td>
+	    <td>2</td>
+		<td>4.44</td>
+	    <td>95.56</td>
+	    <td>409.7</td>
+		<td>9.1</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>GENESIS MONSERRAT</td>
+	    <td>GARCÍA</td>
+	    <td>DE LA ROSA</td>
+	    <td>01AD2D</td>
+	    <td>Cultura Digital II</td>
+	    <td>43</td>
+	    <td>5</td>
+		<td>11.63</td>
+	    <td>88.37</td>
+	    <td>385.5</td>
+		<td>8.97</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>GENESIS MONSERRAT</td>
+	    <td>GARCÍA</td>
+	    <td>DE LA ROSA</td>
+	    <td>01AE2M</td>
+	    <td>Cultura Digital II</td>
+	    <td>35</td>
+	    <td>5</td>
+		<td>14.29</td>
+	    <td>85.71</td>
+	    <td>308.7</td>
+		<td>8.82</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>GENESIS MONSERRAT</td>
+	    <td>GARCÍA</td>
+	    <td>DE LA ROSA</td>
+	    <td>01AD2E</td>
+	    <td>Cultura Digital II</td>
+	    <td>41</td>
+	    <td>12</td>
+		<td>29.27</td>
+	    <td>70.73</td>
+	    <td>314.7</td>
+		<td>7.68</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>GENESIS MONSERRAT</td>
+	    <td>GARCÍA</td>
+	    <td>DE LA ROSA</td>
+	    <td>01AO2H</td>
+	    <td>TUTORÍAS</td>
+	    <td>39</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>390</td>
+		<td>10</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>GENESIS MONSERRAT</td>
+	    <td>GARCÍA</td>
+	    <td>DE LA ROSA</td>
+	    <td>01AO6C</td>
+	    <td>TUTORÍAS</td>
+	    <td>16</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>158.2</td>
+		<td>9.89</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>GENESIS MONSERRAT</td>
+	    <td>GARCÍA</td>
+	    <td>DE LA ROSA</td>
+	    <td>01AO2I</td>
+	    <td>TUTORÍAS</td>
+	    <td>40</td>
+	    <td>1</td>
+		<td>2.5</td>
+	    <td>97.5</td>
+	    <td>392</td>
+		<td>9.8</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>GENESIS MONSERRAT</td>
+	    <td>GARCÍA</td>
+	    <td>DE LA ROSA</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>600</td>
+	    <td>88</td>
+		<td>14.67</td>
+	    <td>85.33</td>
+	    <td>5293.8</td>
+		<td>8.82</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>GLAFIRA BEATRIZ</td>
+	    <td>TOVAR</td>
+	    <td>NARANJO</td>
+	    <td>01AS6S</td>
+	    <td>INTRODUCCIÓN A LA BIOQUIMICA</td>
+	    <td>38</td>
+	    <td>1</td>
+		<td>2.63</td>
+	    <td>97.37</td>
+	    <td>316.3</td>
+		<td>8.32</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>GLAFIRA BEATRIZ</td>
+	    <td>TOVAR</td>
+	    <td>NARANJO</td>
+	    <td>01AE4M</td>
+	    <td>Reacciones químicas: conservación de la materia en la formación de nuevas sustancias</td>
+	    <td>36</td>
+	    <td>9</td>
+		<td>25</td>
+	    <td>75</td>
+	    <td>260.4</td>
+		<td>7.23</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>GLAFIRA BEATRIZ</td>
+	    <td>TOVAR</td>
+	    <td>NARANJO</td>
+	    <td>01C4B</td>
+	    <td>Reacciones químicas: conservación de la materia en la formación de nuevas sustancias</td>
+	    <td>21</td>
+	    <td>4</td>
+		<td>19.05</td>
+	    <td>80.95</td>
+	    <td>158.6</td>
+		<td>7.55</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>GLAFIRA BEATRIZ</td>
+	    <td>TOVAR</td>
+	    <td>NARANJO</td>
+	    <td>01C4C</td>
+	    <td>Reacciones químicas: conservación de la materia en la formación de nuevas sustancias</td>
+	    <td>21</td>
+	    <td>3</td>
+		<td>14.29</td>
+	    <td>85.71</td>
+	    <td>169.9</td>
+		<td>8.09</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>GLAFIRA BEATRIZ</td>
+	    <td>TOVAR</td>
+	    <td>NARANJO</td>
+	    <td>01V4G</td>
+	    <td>Reacciones químicas: conservación de la materia en la formación de nuevas sustancias</td>
+	    <td>34</td>
+	    <td>1</td>
+		<td>2.94</td>
+	    <td>97.06</td>
+	    <td>279.5</td>
+		<td>8.22</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>GLAFIRA BEATRIZ</td>
+	    <td>TOVAR</td>
+	    <td>NARANJO</td>
+	    <td>01P4L</td>
+	    <td>Reacciones químicas: conservación de la materia en la formación de nuevas sustancias</td>
+	    <td>38</td>
+	    <td>1</td>
+		<td>2.63</td>
+	    <td>97.37</td>
+	    <td>297.1</td>
+		<td>7.82</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>GLAFIRA BEATRIZ</td>
+	    <td>TOVAR</td>
+	    <td>NARANJO</td>
+	    <td>01AS6U</td>
+	    <td>TEMAS DE BIOLOGÍA CONTEMPORANEA</td>
+	    <td>20</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>175.9</td>
+		<td>8.8</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>GLAFIRA BEATRIZ</td>
+	    <td>TOVAR</td>
+	    <td>NARANJO</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>208</td>
+	    <td>19</td>
+		<td>9.13</td>
+	    <td>90.87</td>
+	    <td>1657.7</td>
+		<td>7.97</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>GUADALUPE ANAHI</td>
+	    <td>PEREZ</td>
+	    <td>BAENA</td>
+	    <td>01AJ2H</td>
+	    <td>Pensamiento Matemático II</td>
+	    <td>39</td>
+	    <td>18</td>
+		<td>46.15</td>
+	    <td>53.85</td>
+	    <td>240.7</td>
+		<td>6.17</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>GUADALUPE ANAHI</td>
+	    <td>PEREZ</td>
+	    <td>BAENA</td>
+	    <td>01AJ2I</td>
+	    <td>Pensamiento Matemático II</td>
+	    <td>40</td>
+	    <td>9</td>
+		<td>22.5</td>
+	    <td>77.5</td>
+	    <td>269.2</td>
+		<td>6.73</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>GUADALUPE ANAHI</td>
+	    <td>PEREZ</td>
+	    <td>BAENA</td>
+	    <td>01P2L</td>
+	    <td>Pensamiento Matemático II</td>
+	    <td>45</td>
+	    <td>8</td>
+		<td>17.78</td>
+	    <td>82.22</td>
+	    <td>320.5</td>
+		<td>7.12</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>GUADALUPE ANAHI</td>
+	    <td>PEREZ</td>
+	    <td>BAENA</td>
+	    <td>01C2B</td>
+	    <td>Pensamiento Matemático II</td>
+	    <td>32</td>
+	    <td>4</td>
+		<td>12.5</td>
+	    <td>87.5</td>
+	    <td>228.1</td>
+		<td>7.13</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>GUADALUPE ANAHI</td>
+	    <td>PEREZ</td>
+	    <td>BAENA</td>
+	    <td>01C2C</td>
+	    <td>Pensamiento Matemático II</td>
+	    <td>27</td>
+	    <td>7</td>
+		<td>25.93</td>
+	    <td>74.07</td>
+	    <td>186.4</td>
+		<td>6.9</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>GUADALUPE ANAHI</td>
+	    <td>PEREZ</td>
+	    <td>BAENA</td>
+	    <td>01V2F</td>
+	    <td>Pensamiento Matemático II</td>
+	    <td>47</td>
+	    <td>9</td>
+		<td>19.15</td>
+	    <td>80.85</td>
+	    <td>340.6</td>
+		<td>7.25</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>GUADALUPE ANAHI</td>
+	    <td>PEREZ</td>
+	    <td>BAENA</td>
+	    <td>01V2G</td>
+	    <td>Pensamiento Matemático II</td>
+	    <td>45</td>
+	    <td>6</td>
+		<td>13.33</td>
+	    <td>86.67</td>
+	    <td>319.5</td>
+		<td>7.1</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>GUADALUPE ANAHI</td>
+	    <td>PEREZ</td>
+	    <td>BAENA</td>
+	    <td>01AD4D</td>
+	    <td>Temas selectos de matemáticas I </td>
+	    <td>33</td>
+	    <td>11</td>
+		<td>33.33</td>
+	    <td>66.67</td>
+	    <td>227.2</td>
+		<td>6.88</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>GUADALUPE ANAHI</td>
+	    <td>PEREZ</td>
+	    <td>BAENA</td>
+	    <td>01AE4M</td>
+	    <td>Temas selectos de matemáticas I </td>
+	    <td>36</td>
+	    <td>6</td>
+		<td>16.67</td>
+	    <td>83.33</td>
+	    <td>282.7</td>
+		<td>7.85</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>GUADALUPE ANAHI</td>
+	    <td>PEREZ</td>
+	    <td>BAENA</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>344</td>
+	    <td>78</td>
+		<td>22.67</td>
+	    <td>77.33</td>
+	    <td>2414.9</td>
+		<td>7.02</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>ISAURA</td>
+	    <td>OLGUÍN</td>
+	    <td>CHÁVEZ</td>
+	    <td>01AD6E</td>
+	    <td>I. Origen y clasificación de las bebidas</td>
+	    <td>38</td>
+	    <td>1</td>
+		<td>2.63</td>
+	    <td>97.37</td>
+	    <td>300.7</td>
+		<td>7.91</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ISAURA</td>
+	    <td>OLGUÍN</td>
+	    <td>CHÁVEZ</td>
+	    <td>01AD4D</td>
+	    <td>II. Prepara productos de repostería de acuerdo al recetario base</td>
+	    <td>33</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>286.3</td>
+		<td>8.68</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ISAURA</td>
+	    <td>OLGUÍN</td>
+	    <td>CHÁVEZ</td>
+	    <td>01AD4E</td>
+	    <td>II. Prepara productos de repostería de acuerdo al recetario base</td>
+	    <td>37</td>
+	    <td>1</td>
+		<td>2.7</td>
+	    <td>97.3</td>
+	    <td>294.2</td>
+		<td>7.95</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>ISAURA</td>
+	    <td>OLGUÍN</td>
+	    <td>CHÁVEZ</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>108</td>
+	    <td>2</td>
+		<td>1.85</td>
+	    <td>98.15</td>
+	    <td>881.2</td>
+		<td>8.16</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>ISMAEL</td>
+	    <td>HILARIO</td>
+	    <td>MEDINA</td>
+	    <td>01AS6G</td>
+	    <td>DIBUJO TÉCNICO</td>
+	    <td>41</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>348.2</td>
+		<td>8.49</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ISMAEL</td>
+	    <td>HILARIO</td>
+	    <td>MEDINA</td>
+	    <td>01C6C</td>
+	    <td>I. Realiza mantenimiento en el sistema de distribución de energía eléctrica</td>
+	    <td>16</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>131.9</td>
+		<td>8.24</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ISMAEL</td>
+	    <td>HILARIO</td>
+	    <td>MEDINA</td>
+	    <td>01C6B</td>
+	    <td>I. Realiza mantenimiento en el sistema de distribución de energía eléctrica</td>
+	    <td>19</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>161.1</td>
+		<td>8.48</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ISMAEL</td>
+	    <td>HILARIO</td>
+	    <td>MEDINA</td>
+	    <td>01C4B</td>
+	    <td>II. Mantiene en operación circuitos de control electrónico</td>
+	    <td>21</td>
+	    <td>1</td>
+		<td>4.76</td>
+	    <td>95.24</td>
+	    <td>193</td>
+		<td>9.19</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ISMAEL</td>
+	    <td>HILARIO</td>
+	    <td>MEDINA</td>
+	    <td>01C4C</td>
+	    <td>II. Mantiene en operación circuitos de control electrónico</td>
+	    <td>21</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>190.2</td>
+		<td>9.06</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ISMAEL</td>
+	    <td>HILARIO</td>
+	    <td>MEDINA</td>
+	    <td>01V6F</td>
+	    <td>PROBABILIDAD Y ESTADISTICA</td>
+	    <td>46</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>403.6</td>
+		<td>8.77</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ISMAEL</td>
+	    <td>HILARIO</td>
+	    <td>MEDINA</td>
+	    <td>01AS6L</td>
+	    <td>TEMAS DE FISICA</td>
+	    <td>50</td>
+	    <td>2</td>
+		<td>4</td>
+	    <td>96</td>
+	    <td>403.7</td>
+		<td>8.07</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ISMAEL</td>
+	    <td>HILARIO</td>
+	    <td>MEDINA</td>
+	    <td>01AO6B</td>
+	    <td>TUTORÍAS</td>
+	    <td>19</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>190</td>
+		<td>10</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>ISMAEL</td>
+	    <td>HILARIO</td>
+	    <td>MEDINA</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>233</td>
+	    <td>3</td>
+		<td>1.29</td>
+	    <td>98.71</td>
+	    <td>2021.7</td>
+		<td>8.68</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>ITZEL ADRIANA</td>
+	    <td>GARNICA</td>
+	    <td>LÓPEZ</td>
+	    <td>01A4A</td>
+	    <td>II REALIZA LOS PROCEDIMIENTOS EN EL PRE, TRANS Y POST OPERATORIO EN LA ATENCIÓN DEL PACIENTE</td>
+	    <td>30</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>283.1</td>
+		<td>9.44</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>ITZEL ADRIANA</td>
+	    <td>GARNICA</td>
+	    <td>LÓPEZ</td>
+	    <td>01AP4A</td>
+	    <td>Prácticas Clínicas</td>
+	    <td>30</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>293.8</td>
+		<td>9.79</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>ITZEL ADRIANA</td>
+	    <td>GARNICA</td>
+	    <td>LÓPEZ</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>60</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>576.9</td>
+		<td>9.62</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>JAQUELIN</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>JAGUEY</td>
+	    <td>01A4A</td>
+	    <td>Ciencias sociales III</td>
+	    <td>30</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>259.8</td>
+		<td>8.66</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JAQUELIN</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>JAGUEY</td>
+	    <td>01AD4D</td>
+	    <td>Ciencias sociales III</td>
+	    <td>33</td>
+	    <td>4</td>
+		<td>12.12</td>
+	    <td>87.88</td>
+	    <td>269.3</td>
+		<td>8.16</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JAQUELIN</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>JAGUEY</td>
+	    <td>01P4L</td>
+	    <td>Conciencia histórica I. Perspectivas del México antiguo en los contextos globales</td>
+	    <td>38</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>336.1</td>
+		<td>8.84</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JAQUELIN</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>JAGUEY</td>
+	    <td>01C4B</td>
+	    <td>Conciencia histórica I. Perspectivas del México antiguo en los contextos globales</td>
+	    <td>21</td>
+	    <td>1</td>
+		<td>4.76</td>
+	    <td>95.24</td>
+	    <td>176.5</td>
+		<td>8.4</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JAQUELIN</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>JAGUEY</td>
+	    <td>01C4C</td>
+	    <td>Conciencia histórica I. Perspectivas del México antiguo en los contextos globales</td>
+	    <td>21</td>
+	    <td>5</td>
+		<td>23.81</td>
+	    <td>76.19</td>
+	    <td>151.9</td>
+		<td>7.23</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JAQUELIN</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>JAGUEY</td>
+	    <td>01V4G</td>
+	    <td>I. APLICA EL CIERRE DE  LA CADENA DE SUMINISTRO DE MANERA PERSONALIZADA EN ESTABLECIMIENTOS DE COMERCIO AL POR MENOR</td>
+	    <td>34</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>304.8</td>
+		<td>8.96</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JAQUELIN</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>JAGUEY</td>
+	    <td>01V2F</td>
+	    <td>II. APOYA EN EL ANÁLISIS E INTERPRETACIÓN DE LA INFORMACIÓN FINANCIERA</td>
+	    <td>47</td>
+	    <td>8</td>
+		<td>17.02</td>
+	    <td>82.98</td>
+	    <td>383.1</td>
+		<td>8.15</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JAQUELIN</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>JAGUEY</td>
+	    <td>01V2G</td>
+	    <td>II. APOYA EN EL ANÁLISIS E INTERPRETACIÓN DE LA INFORMACIÓN FINANCIERA</td>
+	    <td>45</td>
+	    <td>3</td>
+		<td>6.67</td>
+	    <td>93.33</td>
+	    <td>376</td>
+		<td>8.36</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JAQUELIN</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>JAGUEY</td>
+	    <td>01AO4L</td>
+	    <td>TUTORÍAS</td>
+	    <td>38</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>380</td>
+		<td>10</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JAQUELIN</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>JAGUEY</td>
+	    <td>01AO6G</td>
+	    <td>TUTORÍAS</td>
+	    <td>43</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>430</td>
+		<td>10</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JAQUELIN</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>JAGUEY</td>
+	    <td>01AO4B</td>
+	    <td>TUTORÍAS</td>
+	    <td>21</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>210</td>
+		<td>10</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JAQUELIN</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>JAGUEY</td>
+	    <td>01AO4C</td>
+	    <td>TUTORÍAS</td>
+	    <td>21</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>210</td>
+		<td>10</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>JAQUELIN</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>JAGUEY</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>392</td>
+	    <td>21</td>
+		<td>5.36</td>
+	    <td>94.64</td>
+	    <td>3487.5</td>
+		<td>8.9</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>JENNY</td>
+	    <td>RESENDIZ</td>
+	    <td>SANJUAN</td>
+	    <td>01P6K</td>
+	    <td>Submódulo 1 Realiza actividades psicopedagógicas de asistencia y de salud en centros de atención infantil</td>
+	    <td>40</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>356</td>
+		<td>8.9</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JENNY</td>
+	    <td>RESENDIZ</td>
+	    <td>SANJUAN</td>
+	    <td>01P6L</td>
+	    <td>Submódulo 1 Realiza actividades psicopedagógicas de asistencia y de salud en centros de atención infantil</td>
+	    <td>44</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>370.6</td>
+		<td>8.42</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JENNY</td>
+	    <td>RESENDIZ</td>
+	    <td>SANJUAN</td>
+	    <td>01P4K</td>
+	    <td>Submódulo 1 Realiza la estimulación lúdica y temprana en el infante con un enfoque integral en educación inicial</td>
+	    <td>38</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>333.5</td>
+		<td>8.78</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JENNY</td>
+	    <td>RESENDIZ</td>
+	    <td>SANJUAN</td>
+	    <td>01P4L</td>
+	    <td>Submódulo 1 Realiza la estimulación lúdica y temprana en el infante con un enfoque integral en educación inicial</td>
+	    <td>38</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>343.6</td>
+		<td>9.04</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JENNY</td>
+	    <td>RESENDIZ</td>
+	    <td>SANJUAN</td>
+	    <td>01P2K</td>
+	    <td>Submódulo 3 Atiende las necesidades básicas del niño</td>
+	    <td>44</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>383.6</td>
+		<td>8.72</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>JENNY</td>
+	    <td>RESENDIZ</td>
+	    <td>SANJUAN</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>204</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>1787.3</td>
+		<td>8.76</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>JESÚS</td>
+	    <td>ORTIZ</td>
+	    <td>VILLEDA</td>
+	    <td>01AE4M</td>
+	    <td>Submódulo 1 Brinda soporte técnico de manera presencial</td>
+	    <td>36</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>339.3</td>
+		<td>9.43</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JESÚS</td>
+	    <td>ORTIZ</td>
+	    <td>VILLEDA</td>
+	    <td>01AE4M</td>
+	    <td>Submódulo 2 Brinda soporte técnico a distancia</td>
+	    <td>36</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>339.2</td>
+		<td>9.42</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JESÚS</td>
+	    <td>ORTIZ</td>
+	    <td>VILLEDA</td>
+	    <td>01AE2M</td>
+	    <td>Submódulo 2 Instala y configura software</td>
+	    <td>35</td>
+	    <td>1</td>
+		<td>2.86</td>
+	    <td>97.14</td>
+	    <td>295.2</td>
+		<td>8.43</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JESÚS</td>
+	    <td>ORTIZ</td>
+	    <td>VILLEDA</td>
+	    <td>01AE6M</td>
+	    <td>Submódulo 2 Opera una red LAN</td>
+	    <td>35</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>325.9</td>
+		<td>9.31</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JESÚS</td>
+	    <td>ORTIZ</td>
+	    <td>VILLEDA</td>
+	    <td>01AO6M</td>
+	    <td>TUTORÍAS</td>
+	    <td>35</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>317.8</td>
+		<td>9.08</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>JESÚS</td>
+	    <td>ORTIZ</td>
+	    <td>VILLEDA</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>177</td>
+	    <td>1</td>
+		<td>0.56</td>
+	    <td>99.44</td>
+	    <td>1617.4</td>
+		<td>9.14</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>JONATHAN</td>
+	    <td>MORALES</td>
+	    <td>TORRES</td>
+	    <td>01P2K</td>
+	    <td>Submódulo 1 Identifica la normalidad de aparatos y sistemas del infante aplicando conocimientos de anatomía y fisiología</td>
+	    <td>44</td>
+	    <td>1</td>
+		<td>2.27</td>
+	    <td>97.73</td>
+	    <td>374.8</td>
+		<td>8.52</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JONATHAN</td>
+	    <td>MORALES</td>
+	    <td>TORRES</td>
+	    <td>01P2L</td>
+	    <td>Submódulo 1 Identifica la normalidad de aparatos y sistemas del infante aplicando conocimientos de anatomía y fisiología</td>
+	    <td>45</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>388.8</td>
+		<td>8.64</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JONATHAN</td>
+	    <td>MORALES</td>
+	    <td>TORRES</td>
+	    <td>01AS6V</td>
+	    <td>TEMAS DE BIOLOGÍA CONTEMPORANEA</td>
+	    <td>44</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>416.5</td>
+		<td>9.47</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JONATHAN</td>
+	    <td>MORALES</td>
+	    <td>TORRES</td>
+	    <td>01AO6A</td>
+	    <td>TUTORÍAS</td>
+	    <td>29</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>290</td>
+		<td>10</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JONATHAN</td>
+	    <td>MORALES</td>
+	    <td>TORRES</td>
+	    <td>01AO6E</td>
+	    <td>TUTORÍAS</td>
+	    <td>38</td>
+	    <td>3</td>
+		<td>7.89</td>
+	    <td>92.11</td>
+	    <td>345.7</td>
+		<td>9.1</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>JONATHAN</td>
+	    <td>MORALES</td>
+	    <td>TORRES</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>200</td>
+	    <td>4</td>
+		<td>2</td>
+	    <td>98</td>
+	    <td>1815.8</td>
+		<td>9.08</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>JOSÉ ANTONIO</td>
+	    <td>SAN JUAN</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>01AS6I</td>
+	    <td>MATEMÁTICAS APLICADAS</td>
+	    <td>50</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>389</td>
+		<td>7.78</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JOSÉ ANTONIO</td>
+	    <td>SAN JUAN</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>01AS6J</td>
+	    <td>MATEMÁTICAS APLICADAS</td>
+	    <td>36</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>275.6</td>
+		<td>7.66</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JOSÉ ANTONIO</td>
+	    <td>SAN JUAN</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>01AE2M</td>
+	    <td>Pensamiento Matemático II</td>
+	    <td>35</td>
+	    <td>8</td>
+		<td>22.86</td>
+	    <td>77.14</td>
+	    <td>238.9</td>
+		<td>6.83</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JOSÉ ANTONIO</td>
+	    <td>SAN JUAN</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>01A2A</td>
+	    <td>Pensamiento Matemático II</td>
+	    <td>29</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>235.9</td>
+		<td>8.13</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JOSÉ ANTONIO</td>
+	    <td>SAN JUAN</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>01AD2D</td>
+	    <td>Pensamiento Matemático II</td>
+	    <td>43</td>
+	    <td>7</td>
+		<td>16.28</td>
+	    <td>83.72</td>
+	    <td>296.6</td>
+		<td>6.9</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JOSÉ ANTONIO</td>
+	    <td>SAN JUAN</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>01AD2E</td>
+	    <td>Pensamiento Matemático II</td>
+	    <td>41</td>
+	    <td>4</td>
+		<td>9.76</td>
+	    <td>90.24</td>
+	    <td>294.6</td>
+		<td>7.19</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JOSÉ ANTONIO</td>
+	    <td>SAN JUAN</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>01AJ2J</td>
+	    <td>Pensamiento Matemático II</td>
+	    <td>38</td>
+	    <td>10</td>
+		<td>26.32</td>
+	    <td>73.68</td>
+	    <td>261.9</td>
+		<td>6.89</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>JOSÉ ANTONIO</td>
+	    <td>SAN JUAN</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>272</td>
+	    <td>29</td>
+		<td>10.66</td>
+	    <td>89.34</td>
+	    <td>1992.5</td>
+		<td>7.33</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>JOSÉ ÁNGEL</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>DOLORES</td>
+	    <td>01AJ2I</td>
+	    <td>I Diseña software de sistemas informáticos</td>
+	    <td>40</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>285</td>
+		<td>7.13</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JOSÉ ÁNGEL</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>DOLORES</td>
+	    <td>01AJ2J</td>
+	    <td>I Diseña software de sistemas informáticos</td>
+	    <td>38</td>
+	    <td>1</td>
+		<td>2.63</td>
+	    <td>97.37</td>
+	    <td>267.2</td>
+		<td>7.03</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JOSÉ ÁNGEL</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>DOLORES</td>
+	    <td>01AJ4H</td>
+	    <td>Submódulo 1 Construye páginas Web</td>
+	    <td>33</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>265</td>
+		<td>8.03</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JOSÉ ÁNGEL</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>DOLORES</td>
+	    <td>01AJ4I</td>
+	    <td>Submódulo 1 Construye páginas Web</td>
+	    <td>30</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>248</td>
+		<td>8.27</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JOSÉ ÁNGEL</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>DOLORES</td>
+	    <td>01AJ4J</td>
+	    <td>Submódulo 1 Construye páginas Web</td>
+	    <td>28</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>223</td>
+		<td>7.96</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JOSÉ ÁNGEL</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>DOLORES</td>
+	    <td>01AE2M</td>
+	    <td>Submódulo 1 Ensambla e instala controladores y dispositivos periféricos</td>
+	    <td>35</td>
+	    <td>1</td>
+		<td>2.86</td>
+	    <td>97.14</td>
+	    <td>263.2</td>
+		<td>7.52</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>JOSÉ ÁNGEL</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>DOLORES</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>204</td>
+	    <td>2</td>
+		<td>0.98</td>
+	    <td>99.02</td>
+	    <td>1551.4</td>
+		<td>7.6</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>JUAN</td>
+	    <td>SIMÓN</td>
+	    <td>BARRERA</td>
+	    <td>01C2B</td>
+	    <td>I. Diseña instalaciones eléctricas</td>
+	    <td>32</td>
+	    <td>11</td>
+		<td>34.38</td>
+	    <td>65.62</td>
+	    <td>216.3</td>
+		<td>6.76</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JUAN</td>
+	    <td>SIMÓN</td>
+	    <td>BARRERA</td>
+	    <td>01C2C</td>
+	    <td>I. Diseña instalaciones eléctricas</td>
+	    <td>27</td>
+	    <td>10</td>
+		<td>37.04</td>
+	    <td>62.96</td>
+	    <td>189.3</td>
+		<td>7.01</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JUAN</td>
+	    <td>SIMÓN</td>
+	    <td>BARRERA</td>
+	    <td>01C6B</td>
+	    <td>II. Realiza mantenimiento en subestaciones eléctricas</td>
+	    <td>19</td>
+	    <td>2</td>
+		<td>10.53</td>
+	    <td>89.47</td>
+	    <td>150.2</td>
+		<td>7.91</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JUAN</td>
+	    <td>SIMÓN</td>
+	    <td>BARRERA</td>
+	    <td>01C6C</td>
+	    <td>II. Realiza mantenimiento en subestaciones eléctricas</td>
+	    <td>16</td>
+	    <td>3</td>
+		<td>18.75</td>
+	    <td>81.25</td>
+	    <td>122.1</td>
+		<td>7.63</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JUAN</td>
+	    <td>SIMÓN</td>
+	    <td>BARRERA</td>
+	    <td>01C4B</td>
+	    <td>III. Programa y conecta Controladores Lógicos Programables (PLC´s)</td>
+	    <td>21</td>
+	    <td>3</td>
+		<td>14.29</td>
+	    <td>85.71</td>
+	    <td>163.2</td>
+		<td>7.77</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JUAN</td>
+	    <td>SIMÓN</td>
+	    <td>BARRERA</td>
+	    <td>01C4C</td>
+	    <td>III. Programa y conecta Controladores Lógicos Programables (PLC´s)</td>
+	    <td>21</td>
+	    <td>5</td>
+		<td>23.81</td>
+	    <td>76.19</td>
+	    <td>150.4</td>
+		<td>7.16</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>JUAN</td>
+	    <td>SIMÓN</td>
+	    <td>BARRERA</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>136</td>
+	    <td>34</td>
+		<td>25</td>
+	    <td>75</td>
+	    <td>991.5</td>
+		<td>7.29</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>JUAN FRANCISCO</td>
+	    <td>ROCHA</td>
+	    <td>CONTRERAS</td>
+	    <td>01C4B</td>
+	    <td>Inglés IV</td>
+	    <td>21</td>
+	    <td>3</td>
+		<td>14.29</td>
+	    <td>85.71</td>
+	    <td>139.2</td>
+		<td>6.63</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JUAN FRANCISCO</td>
+	    <td>ROCHA</td>
+	    <td>CONTRERAS</td>
+	    <td>01C4C</td>
+	    <td>Inglés IV</td>
+	    <td>21</td>
+	    <td>10</td>
+		<td>47.62</td>
+	    <td>52.38</td>
+	    <td>138.1</td>
+		<td>6.58</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JUAN FRANCISCO</td>
+	    <td>ROCHA</td>
+	    <td>CONTRERAS</td>
+	    <td>01V4F</td>
+	    <td>Inglés IV</td>
+	    <td>37</td>
+	    <td>10</td>
+		<td>27.03</td>
+	    <td>72.97</td>
+	    <td>255.1</td>
+		<td>6.89</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JUAN FRANCISCO</td>
+	    <td>ROCHA</td>
+	    <td>CONTRERAS</td>
+	    <td>01V4G</td>
+	    <td>Inglés IV</td>
+	    <td>34</td>
+	    <td>17</td>
+		<td>50</td>
+	    <td>50</td>
+	    <td>206.9</td>
+		<td>6.09</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JUAN FRANCISCO</td>
+	    <td>ROCHA</td>
+	    <td>CONTRERAS</td>
+	    <td>01V2F</td>
+	    <td>Lengua y comunicación II</td>
+	    <td>47</td>
+	    <td>7</td>
+		<td>14.89</td>
+	    <td>85.11</td>
+	    <td>362.1</td>
+		<td>7.7</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JUAN FRANCISCO</td>
+	    <td>ROCHA</td>
+	    <td>CONTRERAS</td>
+	    <td>01V2G</td>
+	    <td>Lengua y comunicación II</td>
+	    <td>45</td>
+	    <td>6</td>
+		<td>13.33</td>
+	    <td>86.67</td>
+	    <td>353.7</td>
+		<td>7.86</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JUAN FRANCISCO</td>
+	    <td>ROCHA</td>
+	    <td>CONTRERAS</td>
+	    <td>01AJ2H</td>
+	    <td>Lengua y comunicación II</td>
+	    <td>39</td>
+	    <td>8</td>
+		<td>20.51</td>
+	    <td>79.49</td>
+	    <td>275.5</td>
+		<td>7.06</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JUAN FRANCISCO</td>
+	    <td>ROCHA</td>
+	    <td>CONTRERAS</td>
+	    <td>01AJ2I</td>
+	    <td>Lengua y comunicación II</td>
+	    <td>40</td>
+	    <td>7</td>
+		<td>17.5</td>
+	    <td>82.5</td>
+	    <td>300.7</td>
+		<td>7.52</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JUAN FRANCISCO</td>
+	    <td>ROCHA</td>
+	    <td>CONTRERAS</td>
+	    <td>01AJ2J</td>
+	    <td>Lengua y comunicación II</td>
+	    <td>38</td>
+	    <td>13</td>
+		<td>34.21</td>
+	    <td>65.79</td>
+	    <td>265.9</td>
+		<td>7</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JUAN FRANCISCO</td>
+	    <td>ROCHA</td>
+	    <td>CONTRERAS</td>
+	    <td>01A2A</td>
+	    <td>Lengua y comunicación II</td>
+	    <td>29</td>
+	    <td>2</td>
+		<td>6.9</td>
+	    <td>93.1</td>
+	    <td>250.1</td>
+		<td>8.62</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JUAN FRANCISCO</td>
+	    <td>ROCHA</td>
+	    <td>CONTRERAS</td>
+	    <td>01AD2E</td>
+	    <td>Lengua y comunicación II</td>
+	    <td>41</td>
+	    <td>22</td>
+		<td>53.66</td>
+	    <td>46.34</td>
+	    <td>261.5</td>
+		<td>6.38</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JUAN FRANCISCO</td>
+	    <td>ROCHA</td>
+	    <td>CONTRERAS</td>
+	    <td>01AO2J</td>
+	    <td>TUTORÍAS</td>
+	    <td>38</td>
+	    <td>8</td>
+		<td>21.05</td>
+	    <td>78.95</td>
+	    <td>293.4</td>
+		<td>7.72</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>JUAN FRANCISCO</td>
+	    <td>ROCHA</td>
+	    <td>CONTRERAS</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>430</td>
+	    <td>113</td>
+		<td>26.28</td>
+	    <td>73.72</td>
+	    <td>3102.2</td>
+		<td>7.21</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>JUAN JOSÉ</td>
+	    <td>CARRASCO</td>
+	    <td>BONILLA</td>
+	    <td>01A6A</td>
+	    <td>PROBABILIDAD Y ESTADISTICA</td>
+	    <td>29</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>280.5</td>
+		<td>9.67</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JUAN JOSÉ</td>
+	    <td>CARRASCO</td>
+	    <td>BONILLA</td>
+	    <td>01AD6D</td>
+	    <td>PROBABILIDAD Y ESTADISTICA</td>
+	    <td>40</td>
+	    <td>5</td>
+		<td>12.5</td>
+	    <td>87.5</td>
+	    <td>314.4</td>
+		<td>7.86</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JUAN JOSÉ</td>
+	    <td>CARRASCO</td>
+	    <td>BONILLA</td>
+	    <td>01AD6E</td>
+	    <td>PROBABILIDAD Y ESTADISTICA</td>
+	    <td>38</td>
+	    <td>7</td>
+		<td>18.42</td>
+	    <td>81.58</td>
+	    <td>277.9</td>
+		<td>7.31</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JUAN JOSÉ</td>
+	    <td>CARRASCO</td>
+	    <td>BONILLA</td>
+	    <td>01P6K</td>
+	    <td>PROBABILIDAD Y ESTADISTICA</td>
+	    <td>40</td>
+	    <td>4</td>
+		<td>10</td>
+	    <td>90</td>
+	    <td>311.8</td>
+		<td>7.8</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JUAN JOSÉ</td>
+	    <td>CARRASCO</td>
+	    <td>BONILLA</td>
+	    <td>01P6L</td>
+	    <td>PROBABILIDAD Y ESTADISTICA</td>
+	    <td>44</td>
+	    <td>8</td>
+		<td>18.18</td>
+	    <td>81.82</td>
+	    <td>349.8</td>
+		<td>7.95</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JUAN JOSÉ</td>
+	    <td>CARRASCO</td>
+	    <td>BONILLA</td>
+	    <td>01AE6M</td>
+	    <td>PROBABILIDAD Y ESTADISTICA</td>
+	    <td>35</td>
+	    <td>4</td>
+		<td>11.43</td>
+	    <td>88.57</td>
+	    <td>268.1</td>
+		<td>7.66</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>JUAN JOSÉ</td>
+	    <td>CARRASCO</td>
+	    <td>BONILLA</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>226</td>
+	    <td>28</td>
+		<td>12.39</td>
+	    <td>87.61</td>
+	    <td>1802.5</td>
+		<td>7.98</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>JUANA</td>
+	    <td>ESTRADA</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>01P4K</td>
+	    <td>Submódulo 2 Fomenta acciones para la prevención de accidentes y enfermedades infantiles</td>
+	    <td>38</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>363.2</td>
+		<td>9.56</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JUANA</td>
+	    <td>ESTRADA</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>01P4L</td>
+	    <td>Submódulo 2 Fomenta acciones para la prevención de accidentes y enfermedades infantiles</td>
+	    <td>38</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>356.6</td>
+		<td>9.38</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JUANA</td>
+	    <td>ESTRADA</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>01P2L</td>
+	    <td>Submódulo 3 Atiende las necesidades básicas del niño</td>
+	    <td>45</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>429.1</td>
+		<td>9.54</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JUANA</td>
+	    <td>ESTRADA</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>01AO4K</td>
+	    <td>TUTORÍAS</td>
+	    <td>38</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>380</td>
+		<td>10</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>JUANA</td>
+	    <td>ESTRADA</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>01AO2L</td>
+	    <td>TUTORÍAS</td>
+	    <td>45</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>405</td>
+		<td>9</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>JUANA</td>
+	    <td>ESTRADA</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>204</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>1933.9</td>
+		<td>9.48</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>LIDIANA</td>
+	    <td>RODRIGUEZ</td>
+	    <td>JIMENEZ</td>
+	    <td>01A6A</td>
+	    <td>I APLICA CUIDADOS DE ENFERMERÍA EN EL ADULTO MAYOR DE ACUERDO A SU NECESIDADES</td>
+	    <td>29</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>269.1</td>
+		<td>9.28</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>LIDIANA</td>
+	    <td>RODRIGUEZ</td>
+	    <td>JIMENEZ</td>
+	    <td>01A2A</td>
+	    <td>I APLICA PROCEDIMIENTOS Y TECNICAS BÁSICAS DE APOYO A LA HIGIENE, SEGURIDAD Y CONFORT DE LA PERSONA, FAMILIA, GRUPOS Y COMUNIDAD</td>
+	    <td>29</td>
+	    <td>1</td>
+		<td>3.45</td>
+	    <td>96.55</td>
+	    <td>236</td>
+		<td>8.14</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>LIDIANA</td>
+	    <td>RODRIGUEZ</td>
+	    <td>JIMENEZ</td>
+	    <td>01AP2A</td>
+	    <td>Prácticas Clínicas</td>
+	    <td>29</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>273.9</td>
+		<td>9.44</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>LIDIANA</td>
+	    <td>RODRIGUEZ</td>
+	    <td>JIMENEZ</td>
+	    <td>01AS6Y</td>
+	    <td>TEMAS DE CIENCIAS DE LA SALUD</td>
+	    <td>44</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>410.8</td>
+		<td>9.34</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>LIDIANA</td>
+	    <td>RODRIGUEZ</td>
+	    <td>JIMENEZ</td>
+	    <td>01AS6Z</td>
+	    <td>TEMAS DE CIENCIAS DE LA SALUD</td>
+	    <td>41</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>392.2</td>
+		<td>9.57</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>LIDIANA</td>
+	    <td>RODRIGUEZ</td>
+	    <td>JIMENEZ</td>
+	    <td>01AO2A</td>
+	    <td>TUTORÍAS</td>
+	    <td>29</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>290</td>
+		<td>10</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>LIDIANA</td>
+	    <td>RODRIGUEZ</td>
+	    <td>JIMENEZ</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>201</td>
+	    <td>1</td>
+		<td>0.5</td>
+	    <td>99.5</td>
+	    <td>1872</td>
+		<td>9.31</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>LIZBETH</td>
+	    <td>SOLER</td>
+	    <td>VELÁZQUEZ</td>
+	    <td>01AD2D</td>
+	    <td>I Corta vegetales, frutas, carnes y productos del mar con base en el estándar establecido</td>
+	    <td>43</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>371.1</td>
+		<td>8.63</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>LIZBETH</td>
+	    <td>SOLER</td>
+	    <td>VELÁZQUEZ</td>
+	    <td>01AD2E</td>
+	    <td>I Corta vegetales, frutas, carnes y productos del mar con base en el estándar establecido</td>
+	    <td>41</td>
+	    <td>4</td>
+		<td>9.76</td>
+	    <td>90.24</td>
+	    <td>337.8</td>
+		<td>8.24</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>LIZBETH</td>
+	    <td>SOLER</td>
+	    <td>VELÁZQUEZ</td>
+	    <td>01AD6D</td>
+	    <td>I. Origen y clasificación de las bebidas</td>
+	    <td>40</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>372.3</td>
+		<td>9.31</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>LIZBETH</td>
+	    <td>SOLER</td>
+	    <td>VELÁZQUEZ</td>
+	    <td>01AD6D</td>
+	    <td>II. Prepara bebidas y cocteles de acuerdo al recetario base</td>
+	    <td>40</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>364.1</td>
+		<td>9.1</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>LIZBETH</td>
+	    <td>SOLER</td>
+	    <td>VELÁZQUEZ</td>
+	    <td>01AD6E</td>
+	    <td>II. Prepara bebidas y cocteles de acuerdo al recetario base</td>
+	    <td>38</td>
+	    <td>2</td>
+		<td>5.26</td>
+	    <td>94.74</td>
+	    <td>345.8</td>
+		<td>9.1</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>LIZBETH</td>
+	    <td>SOLER</td>
+	    <td>VELÁZQUEZ</td>
+	    <td>01AO6D</td>
+	    <td>TUTORÍAS</td>
+	    <td>40</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>379.4</td>
+		<td>9.49</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>LIZBETH</td>
+	    <td>SOLER</td>
+	    <td>VELÁZQUEZ</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>242</td>
+	    <td>6</td>
+		<td>2.48</td>
+	    <td>97.52</td>
+	    <td>2170.5</td>
+		<td>8.97</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>LUZ ESTRELLA</td>
+	    <td>BIÑUELO</td>
+	    <td>MARCELO</td>
+	    <td>01AJ4J</td>
+	    <td>Submódulo 2 Desarrolla aplicaciones que se ejecutan en el cliente</td>
+	    <td>28</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>244.2</td>
+		<td>8.72</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>LUZ ESTRELLA</td>
+	    <td>BIÑUELO</td>
+	    <td>MARCELO</td>
+	    <td>01AJ4H</td>
+	    <td>Submódulo 3 Desarrolla aplicaciones que se ejecutan en el servidor</td>
+	    <td>33</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>277.1</td>
+		<td>8.4</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>LUZ ESTRELLA</td>
+	    <td>BIÑUELO</td>
+	    <td>MARCELO</td>
+	    <td>01AJ4I</td>
+	    <td>Submódulo 3 Desarrolla aplicaciones que se ejecutan en el servidor</td>
+	    <td>30</td>
+	    <td>3</td>
+		<td>10</td>
+	    <td>90</td>
+	    <td>244.7</td>
+		<td>8.16</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>LUZ ESTRELLA</td>
+	    <td>BIÑUELO</td>
+	    <td>MARCELO</td>
+	    <td>01AO4F</td>
+	    <td>TUTORÍAS</td>
+	    <td>37</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>350.6</td>
+		<td>9.48</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>LUZ ESTRELLA</td>
+	    <td>BIÑUELO</td>
+	    <td>MARCELO</td>
+	    <td>01AO4G</td>
+	    <td>TUTORÍAS</td>
+	    <td>34</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>334.4</td>
+		<td>9.84</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>LUZ ESTRELLA</td>
+	    <td>BIÑUELO</td>
+	    <td>MARCELO</td>
+	    <td>01AO4J</td>
+	    <td>TUTORÍAS</td>
+	    <td>28</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>276.8</td>
+		<td>9.89</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>LUZ ESTRELLA</td>
+	    <td>BIÑUELO</td>
+	    <td>MARCELO</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>190</td>
+	    <td>3</td>
+		<td>1.58</td>
+	    <td>98.42</td>
+	    <td>1727.8</td>
+		<td>9.09</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>MAREVSNA GUADALUPE</td>
+	    <td>GUZMÁN</td>
+	    <td>MEJÍA</td>
+	    <td>01AJ4J</td>
+	    <td>Ciencias sociales III</td>
+	    <td>28</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>243.9</td>
+		<td>8.71</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MAREVSNA GUADALUPE</td>
+	    <td>GUZMÁN</td>
+	    <td>MEJÍA</td>
+	    <td>01P4K</td>
+	    <td>Ciencias sociales III</td>
+	    <td>38</td>
+	    <td>4</td>
+		<td>10.53</td>
+	    <td>89.47</td>
+	    <td>320.9</td>
+		<td>8.44</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MAREVSNA GUADALUPE</td>
+	    <td>GUZMÁN</td>
+	    <td>MEJÍA</td>
+	    <td>01P4L</td>
+	    <td>Ciencias sociales III</td>
+	    <td>38</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>330.7</td>
+		<td>8.7</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MAREVSNA GUADALUPE</td>
+	    <td>GUZMÁN</td>
+	    <td>MEJÍA</td>
+	    <td>01AD4E</td>
+	    <td>Ciencias sociales III</td>
+	    <td>37</td>
+	    <td>3</td>
+		<td>8.11</td>
+	    <td>91.89</td>
+	    <td>305.1</td>
+		<td>8.25</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MAREVSNA GUADALUPE</td>
+	    <td>GUZMÁN</td>
+	    <td>MEJÍA</td>
+	    <td>01AJ4H</td>
+	    <td>Ciencias sociales III</td>
+	    <td>33</td>
+	    <td>3</td>
+		<td>9.09</td>
+	    <td>90.91</td>
+	    <td>263.5</td>
+		<td>7.98</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MAREVSNA GUADALUPE</td>
+	    <td>GUZMÁN</td>
+	    <td>MEJÍA</td>
+	    <td>01AJ4I</td>
+	    <td>Ciencias sociales III</td>
+	    <td>30</td>
+	    <td>3</td>
+		<td>10</td>
+	    <td>90</td>
+	    <td>239.1</td>
+		<td>7.97</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MAREVSNA GUADALUPE</td>
+	    <td>GUZMÁN</td>
+	    <td>MEJÍA</td>
+	    <td>01AS6H</td>
+	    <td>DIBUJO TÉCNICO</td>
+	    <td>36</td>
+	    <td>3</td>
+		<td>8.33</td>
+	    <td>91.67</td>
+	    <td>312.6</td>
+		<td>8.68</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MAREVSNA GUADALUPE</td>
+	    <td>GUZMÁN</td>
+	    <td>MEJÍA</td>
+	    <td>01P2K</td>
+	    <td>Pensamiento Matemático II</td>
+	    <td>44</td>
+	    <td>8</td>
+		<td>18.18</td>
+	    <td>81.82</td>
+	    <td>332.3</td>
+		<td>7.55</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MAREVSNA GUADALUPE</td>
+	    <td>GUZMÁN</td>
+	    <td>MEJÍA</td>
+	    <td>01AJ6J</td>
+	    <td>PROBABILIDAD Y ESTADISTICA</td>
+	    <td>37</td>
+	    <td>3</td>
+		<td>8.11</td>
+	    <td>91.89</td>
+	    <td>334.3</td>
+		<td>9.04</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MAREVSNA GUADALUPE</td>
+	    <td>GUZMÁN</td>
+	    <td>MEJÍA</td>
+	    <td>01P4K</td>
+	    <td>Temas selectos de matemáticas I </td>
+	    <td>38</td>
+	    <td>2</td>
+		<td>5.26</td>
+	    <td>94.74</td>
+	    <td>328.1</td>
+		<td>8.63</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MAREVSNA GUADALUPE</td>
+	    <td>GUZMÁN</td>
+	    <td>MEJÍA</td>
+	    <td>01P4L</td>
+	    <td>Temas selectos de matemáticas I </td>
+	    <td>38</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>325.5</td>
+		<td>8.57</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MAREVSNA GUADALUPE</td>
+	    <td>GUZMÁN</td>
+	    <td>MEJÍA</td>
+	    <td>01A4A</td>
+	    <td>Temas selectos de matemáticas I </td>
+	    <td>30</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>267.2</td>
+		<td>8.91</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MAREVSNA GUADALUPE</td>
+	    <td>GUZMÁN</td>
+	    <td>MEJÍA</td>
+	    <td>01AO6J</td>
+	    <td>TUTORÍAS</td>
+	    <td>37</td>
+	    <td>9</td>
+		<td>24.32</td>
+	    <td>75.68</td>
+	    <td>309.9</td>
+		<td>8.38</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MAREVSNA GUADALUPE</td>
+	    <td>GUZMÁN</td>
+	    <td>MEJÍA</td>
+	    <td>01AO4A</td>
+	    <td>TUTORÍAS</td>
+	    <td>30</td>
+	    <td>1</td>
+		<td>3.33</td>
+	    <td>96.67</td>
+	    <td>275</td>
+		<td>9.17</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>MAREVSNA GUADALUPE</td>
+	    <td>GUZMÁN</td>
+	    <td>MEJÍA</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>494</td>
+	    <td>39</td>
+		<td>7.89</td>
+	    <td>92.11</td>
+	    <td>4188.1</td>
+		<td>8.48</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARGARITA</td>
+	    <td>MACIEL</td>
+	    <td>CRUZ</td>
+	    <td>01A4A</td>
+	    <td>I REALIZA PROCEDIMIENTOS ADMINISTRATIVOS Y DE GESTÍON EN LOS SERVICIOS DE ENFERMERIA QUIRÚRGICA</td>
+	    <td>30</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>287.1</td>
+		<td>9.57</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARGARITA</td>
+	    <td>MACIEL</td>
+	    <td>CRUZ</td>
+	    <td>01A2A</td>
+	    <td>II APLICA MEDIDAS PREVENTIVAS Y CUIDADOS DE ENFERMERÍA EN SALUD COMUNITARIA</td>
+	    <td>29</td>
+	    <td>1</td>
+		<td>3.45</td>
+	    <td>96.55</td>
+	    <td>271.8</td>
+		<td>9.37</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARGARITA</td>
+	    <td>MACIEL</td>
+	    <td>CRUZ</td>
+	    <td>01A6A</td>
+	    <td>II PROPORCIONA ATENCIÓN DE ENFERMERÍA EN LA APLICACIÓN DE PROGRAMAS NACIONALES DE SALUD FÍSICA Y MENTAL EN LA COMUNIDAD</td>
+	    <td>29</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>274.5</td>
+		<td>9.47</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARGARITA</td>
+	    <td>MACIEL</td>
+	    <td>CRUZ</td>
+	    <td>01AP6A</td>
+	    <td>PRÁCTICAS CLÍNICAS</td>
+	    <td>29</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>290</td>
+		<td>10</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>MARGARITA</td>
+	    <td>MACIEL</td>
+	    <td>CRUZ</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>117</td>
+	    <td>1</td>
+		<td>0.85</td>
+	    <td>99.15</td>
+	    <td>1123.4</td>
+		<td>9.6</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARGARITA ELIZABETH</td>
+	    <td>CHÁVEZ</td>
+	    <td>GARZA</td>
+	    <td>01AJ2I</td>
+	    <td>La Conservacion de la energia y su Interaccion con la Materia</td>
+	    <td>40</td>
+	    <td>19</td>
+		<td>47.5</td>
+	    <td>52.5</td>
+	    <td>250.4</td>
+		<td>6.26</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARGARITA ELIZABETH</td>
+	    <td>CHÁVEZ</td>
+	    <td>GARZA</td>
+	    <td>01AJ2J</td>
+	    <td>La Conservacion de la energia y su Interaccion con la Materia</td>
+	    <td>38</td>
+	    <td>17</td>
+		<td>44.74</td>
+	    <td>55.26</td>
+	    <td>246.7</td>
+		<td>6.49</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARGARITA ELIZABETH</td>
+	    <td>CHÁVEZ</td>
+	    <td>GARZA</td>
+	    <td>01C2B</td>
+	    <td>La Conservacion de la energia y su Interaccion con la Materia</td>
+	    <td>32</td>
+	    <td>14</td>
+		<td>43.75</td>
+	    <td>56.25</td>
+	    <td>207.6</td>
+		<td>6.49</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARGARITA ELIZABETH</td>
+	    <td>CHÁVEZ</td>
+	    <td>GARZA</td>
+	    <td>01C2C</td>
+	    <td>La Conservacion de la energia y su Interaccion con la Materia</td>
+	    <td>27</td>
+	    <td>7</td>
+		<td>25.93</td>
+	    <td>74.07</td>
+	    <td>184.4</td>
+		<td>6.83</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARGARITA ELIZABETH</td>
+	    <td>CHÁVEZ</td>
+	    <td>GARZA</td>
+	    <td>01V2F</td>
+	    <td>La Conservacion de la energia y su Interaccion con la Materia</td>
+	    <td>47</td>
+	    <td>20</td>
+		<td>42.55</td>
+	    <td>57.45</td>
+	    <td>299.5</td>
+		<td>6.37</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARGARITA ELIZABETH</td>
+	    <td>CHÁVEZ</td>
+	    <td>GARZA</td>
+	    <td>01V2G</td>
+	    <td>La Conservacion de la energia y su Interaccion con la Materia</td>
+	    <td>45</td>
+	    <td>17</td>
+		<td>37.78</td>
+	    <td>62.22</td>
+	    <td>311.3</td>
+		<td>6.92</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARGARITA ELIZABETH</td>
+	    <td>CHÁVEZ</td>
+	    <td>GARZA</td>
+	    <td>01AJ2H</td>
+	    <td>La Conservacion de la energia y su Interaccion con la Materia</td>
+	    <td>39</td>
+	    <td>27</td>
+		<td>69.23</td>
+	    <td>30.77</td>
+	    <td>216.1</td>
+		<td>5.54</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARGARITA ELIZABETH</td>
+	    <td>CHÁVEZ</td>
+	    <td>GARZA</td>
+	    <td>01V4F</td>
+	    <td>Reacciones químicas: conservación de la materia en la formación de nuevas sustancias</td>
+	    <td>37</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>330.1</td>
+		<td>8.92</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>MARGARITA ELIZABETH</td>
+	    <td>CHÁVEZ</td>
+	    <td>GARZA</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>305</td>
+	    <td>121</td>
+		<td>39.67</td>
+	    <td>60.33</td>
+	    <td>2046.1</td>
+		<td>6.71</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARICARMEN</td>
+	    <td>FERNANDEZ</td>
+	    <td>BADILLO</td>
+	    <td>01A2A</td>
+	    <td>Inglés II</td>
+	    <td>29</td>
+	    <td>4</td>
+		<td>13.79</td>
+	    <td>86.21</td>
+	    <td>226</td>
+		<td>7.79</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARICARMEN</td>
+	    <td>FERNANDEZ</td>
+	    <td>BADILLO</td>
+	    <td>01AJ2J</td>
+	    <td>Inglés II</td>
+	    <td>38</td>
+	    <td>12</td>
+		<td>31.58</td>
+	    <td>68.42</td>
+	    <td>264.3</td>
+		<td>6.96</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARICARMEN</td>
+	    <td>FERNANDEZ</td>
+	    <td>BADILLO</td>
+	    <td>01AE2M</td>
+	    <td>Inglés II</td>
+	    <td>35</td>
+	    <td>5</td>
+		<td>14.29</td>
+	    <td>85.71</td>
+	    <td>251.2</td>
+		<td>7.18</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARICARMEN</td>
+	    <td>FERNANDEZ</td>
+	    <td>BADILLO</td>
+	    <td>01AJ4I</td>
+	    <td>Inglés IV</td>
+	    <td>30</td>
+	    <td>1</td>
+		<td>3.33</td>
+	    <td>96.67</td>
+	    <td>235.6</td>
+		<td>7.85</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARICARMEN</td>
+	    <td>FERNANDEZ</td>
+	    <td>BADILLO</td>
+	    <td>01AJ4J</td>
+	    <td>Inglés IV</td>
+	    <td>28</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>239.2</td>
+		<td>8.54</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARICARMEN</td>
+	    <td>FERNANDEZ</td>
+	    <td>BADILLO</td>
+	    <td>01P4K</td>
+	    <td>Inglés IV</td>
+	    <td>38</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>330.2</td>
+		<td>8.69</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARICARMEN</td>
+	    <td>FERNANDEZ</td>
+	    <td>BADILLO</td>
+	    <td>01P4L</td>
+	    <td>Inglés IV</td>
+	    <td>38</td>
+	    <td>1</td>
+		<td>2.63</td>
+	    <td>97.37</td>
+	    <td>330.2</td>
+		<td>8.69</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARICARMEN</td>
+	    <td>FERNANDEZ</td>
+	    <td>BADILLO</td>
+	    <td>01A4A</td>
+	    <td>Inglés IV</td>
+	    <td>30</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>275.1</td>
+		<td>9.17</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARICARMEN</td>
+	    <td>FERNANDEZ</td>
+	    <td>BADILLO</td>
+	    <td>01AD4D</td>
+	    <td>Inglés IV</td>
+	    <td>33</td>
+	    <td>2</td>
+		<td>6.06</td>
+	    <td>93.94</td>
+	    <td>266.6</td>
+		<td>8.08</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARICARMEN</td>
+	    <td>FERNANDEZ</td>
+	    <td>BADILLO</td>
+	    <td>01AD4E</td>
+	    <td>Inglés IV</td>
+	    <td>37</td>
+	    <td>1</td>
+		<td>2.7</td>
+	    <td>97.3</td>
+	    <td>307.8</td>
+		<td>8.32</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARICARMEN</td>
+	    <td>FERNANDEZ</td>
+	    <td>BADILLO</td>
+	    <td>01AJ4H</td>
+	    <td>Inglés IV</td>
+	    <td>33</td>
+	    <td>6</td>
+		<td>18.18</td>
+	    <td>81.82</td>
+	    <td>238.7</td>
+		<td>7.23</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARICARMEN</td>
+	    <td>FERNANDEZ</td>
+	    <td>BADILLO</td>
+	    <td>01AO2M</td>
+	    <td>TUTORÍAS</td>
+	    <td>35</td>
+	    <td>1</td>
+		<td>2.86</td>
+	    <td>97.14</td>
+	    <td>325</td>
+		<td>9.29</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARICARMEN</td>
+	    <td>FERNANDEZ</td>
+	    <td>BADILLO</td>
+	    <td>01AO4D</td>
+	    <td>TUTORÍAS</td>
+	    <td>33</td>
+	    <td>4</td>
+		<td>12.12</td>
+	    <td>87.88</td>
+	    <td>284</td>
+		<td>8.61</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARICARMEN</td>
+	    <td>FERNANDEZ</td>
+	    <td>BADILLO</td>
+	    <td>01AO4E</td>
+	    <td>TUTORÍAS</td>
+	    <td>37</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>336</td>
+		<td>9.08</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>MARICARMEN</td>
+	    <td>FERNANDEZ</td>
+	    <td>BADILLO</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>474</td>
+	    <td>37</td>
+		<td>7.81</td>
+	    <td>92.19</td>
+	    <td>3909.9</td>
+		<td>8.25</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARÍA GUADALUPE</td>
+	    <td>JIMÉNEZ</td>
+	    <td>ÁNGELES</td>
+	    <td>01V2G</td>
+	    <td>Ciencias Sociales II</td>
+	    <td>45</td>
+	    <td>11</td>
+		<td>24.44</td>
+	    <td>75.56</td>
+	    <td>362</td>
+		<td>8.04</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARÍA GUADALUPE</td>
+	    <td>JIMÉNEZ</td>
+	    <td>ÁNGELES</td>
+	    <td>01AJ2H</td>
+	    <td>Ciencias Sociales II</td>
+	    <td>39</td>
+	    <td>20</td>
+		<td>51.28</td>
+	    <td>48.72</td>
+	    <td>247</td>
+		<td>6.33</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARÍA GUADALUPE</td>
+	    <td>JIMÉNEZ</td>
+	    <td>ÁNGELES</td>
+	    <td>01AJ2I</td>
+	    <td>Ciencias Sociales II</td>
+	    <td>40</td>
+	    <td>19</td>
+		<td>47.5</td>
+	    <td>52.5</td>
+	    <td>257</td>
+		<td>6.43</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARÍA GUADALUPE</td>
+	    <td>JIMÉNEZ</td>
+	    <td>ÁNGELES</td>
+	    <td>01AJ2J</td>
+	    <td>Ciencias Sociales II</td>
+	    <td>38</td>
+	    <td>13</td>
+		<td>34.21</td>
+	    <td>65.79</td>
+	    <td>273</td>
+		<td>7.18</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARÍA GUADALUPE</td>
+	    <td>JIMÉNEZ</td>
+	    <td>ÁNGELES</td>
+	    <td>01AE2M</td>
+	    <td>Ciencias Sociales II</td>
+	    <td>35</td>
+	    <td>7</td>
+		<td>20</td>
+	    <td>80</td>
+	    <td>266</td>
+		<td>7.6</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARÍA GUADALUPE</td>
+	    <td>JIMÉNEZ</td>
+	    <td>ÁNGELES</td>
+	    <td>01C4B</td>
+	    <td>Ciencias sociales III</td>
+	    <td>21</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>164</td>
+		<td>7.81</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARÍA GUADALUPE</td>
+	    <td>JIMÉNEZ</td>
+	    <td>ÁNGELES</td>
+	    <td>01C4C</td>
+	    <td>Ciencias sociales III</td>
+	    <td>21</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>159</td>
+		<td>7.57</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARÍA GUADALUPE</td>
+	    <td>JIMÉNEZ</td>
+	    <td>ÁNGELES</td>
+	    <td>01V4F</td>
+	    <td>Ciencias sociales III</td>
+	    <td>37</td>
+	    <td>9</td>
+		<td>24.32</td>
+	    <td>75.68</td>
+	    <td>304</td>
+		<td>8.22</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARÍA GUADALUPE</td>
+	    <td>JIMÉNEZ</td>
+	    <td>ÁNGELES</td>
+	    <td>01V4G</td>
+	    <td>Ciencias sociales III</td>
+	    <td>34</td>
+	    <td>2</td>
+		<td>5.88</td>
+	    <td>94.12</td>
+	    <td>285</td>
+		<td>8.38</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARÍA GUADALUPE</td>
+	    <td>JIMÉNEZ</td>
+	    <td>ÁNGELES</td>
+	    <td>01AE4M</td>
+	    <td>Ciencias sociales III</td>
+	    <td>36</td>
+	    <td>6</td>
+		<td>16.67</td>
+	    <td>83.33</td>
+	    <td>280</td>
+		<td>7.78</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARÍA GUADALUPE</td>
+	    <td>JIMÉNEZ</td>
+	    <td>ÁNGELES</td>
+	    <td>01P2K</td>
+	    <td>Lengua y comunicación II</td>
+	    <td>44</td>
+	    <td>11</td>
+		<td>25</td>
+	    <td>75</td>
+	    <td>322</td>
+		<td>7.32</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARÍA GUADALUPE</td>
+	    <td>JIMÉNEZ</td>
+	    <td>ÁNGELES</td>
+	    <td>01P2L</td>
+	    <td>Lengua y comunicación II</td>
+	    <td>45</td>
+	    <td>2</td>
+		<td>4.44</td>
+	    <td>95.56</td>
+	    <td>362</td>
+		<td>8.04</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARÍA GUADALUPE</td>
+	    <td>JIMÉNEZ</td>
+	    <td>ÁNGELES</td>
+	    <td>01AS6E</td>
+	    <td>TEMAS DE ADMINISTRACIÓN</td>
+	    <td>27</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>239</td>
+		<td>8.85</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARÍA GUADALUPE</td>
+	    <td>JIMÉNEZ</td>
+	    <td>ÁNGELES</td>
+	    <td>01AO2G</td>
+	    <td>TUTORÍAS</td>
+	    <td>45</td>
+	    <td>6</td>
+		<td>13.33</td>
+	    <td>86.67</td>
+	    <td>371</td>
+		<td>8.24</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>MARÍA GUADALUPE</td>
+	    <td>JIMÉNEZ</td>
+	    <td>ÁNGELES</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>507</td>
+	    <td>106</td>
+		<td>20.91</td>
+	    <td>79.09</td>
+	    <td>3891</td>
+		<td>7.67</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARÍA ISABEL</td>
+	    <td>CRUZ</td>
+	    <td>ÁLVAREZ</td>
+	    <td>01AJ2H</td>
+	    <td>II Codifica software de sistemas informáticos</td>
+	    <td>39</td>
+	    <td>1</td>
+		<td>2.56</td>
+	    <td>97.44</td>
+	    <td>269.4</td>
+		<td>6.91</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARÍA ISABEL</td>
+	    <td>CRUZ</td>
+	    <td>ÁLVAREZ</td>
+	    <td>01AJ2I</td>
+	    <td>II Codifica software de sistemas informáticos</td>
+	    <td>40</td>
+	    <td>1</td>
+		<td>2.5</td>
+	    <td>97.5</td>
+	    <td>297.8</td>
+		<td>7.45</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARÍA ISABEL</td>
+	    <td>CRUZ</td>
+	    <td>ÁLVAREZ</td>
+	    <td>01AJ2J</td>
+	    <td>II Codifica software de sistemas informáticos</td>
+	    <td>38</td>
+	    <td>6</td>
+		<td>15.79</td>
+	    <td>84.21</td>
+	    <td>260.5</td>
+		<td>6.86</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARÍA ISABEL</td>
+	    <td>CRUZ</td>
+	    <td>ÁLVAREZ</td>
+	    <td>01AJ4H</td>
+	    <td>Submódulo 2 Desarrolla aplicaciones que se ejecutan en el cliente</td>
+	    <td>33</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>294</td>
+		<td>8.91</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>MARÍA ISABEL</td>
+	    <td>CRUZ</td>
+	    <td>ÁLVAREZ</td>
+	    <td>01AJ4J</td>
+	    <td>Submódulo 3 Desarrolla aplicaciones que se ejecutan en el servidor</td>
+	    <td>28</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>246.6</td>
+		<td>8.81</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>MARÍA ISABEL</td>
+	    <td>CRUZ</td>
+	    <td>ÁLVAREZ</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>178</td>
+	    <td>8</td>
+		<td>4.49</td>
+	    <td>95.51</td>
+	    <td>1368.3</td>
+		<td>7.69</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>NALLELY</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>BRAVO</td>
+	    <td>01P6L</td>
+	    <td>Submódulo 2 Desarrolla un proyecto de emprendimiento de puericultura</td>
+	    <td>44</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>402.8</td>
+		<td>9.15</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>NALLELY</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>BRAVO</td>
+	    <td>01P6K</td>
+	    <td>Submódulo 2 Desarrolla un proyecto de emprendimiento de puericultura</td>
+	    <td>40</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>358.9</td>
+		<td>8.97</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>NALLELY</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>BRAVO</td>
+	    <td>01P2K</td>
+	    <td>Submódulo 2 Promueve programas de salud materno infantil y control del niño sano</td>
+	    <td>44</td>
+	    <td>1</td>
+		<td>2.27</td>
+	    <td>97.73</td>
+	    <td>421.5</td>
+		<td>9.58</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>NALLELY</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>BRAVO</td>
+	    <td>01P2L</td>
+	    <td>Submódulo 2 Promueve programas de salud materno infantil y control del niño sano</td>
+	    <td>45</td>
+	    <td>1</td>
+		<td>2.22</td>
+	    <td>97.78</td>
+	    <td>438.2</td>
+		<td>9.74</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>NALLELY</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>BRAVO</td>
+	    <td>01P4K</td>
+	    <td>Submódulo 3 Realiza acciones para la educación artística en niños de 3 a 6 años</td>
+	    <td>38</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>366.3</td>
+		<td>9.64</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>NALLELY</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>BRAVO</td>
+	    <td>01P4L</td>
+	    <td>Submódulo 3 Realiza acciones para la educación artística en niños de 3 a 6 años</td>
+	    <td>38</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>375.9</td>
+		<td>9.89</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>NALLELY</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>BRAVO</td>
+	    <td>01AS6W</td>
+	    <td>TEMAS DE CIENCIAS DE LA SALUD</td>
+	    <td>38</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>319.8</td>
+		<td>8.42</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>NALLELY</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>BRAVO</td>
+	    <td>01AS6X</td>
+	    <td>TEMAS DE CIENCIAS DE LA SALUD</td>
+	    <td>20</td>
+	    <td>1</td>
+		<td>5</td>
+	    <td>95</td>
+	    <td>150.3</td>
+		<td>7.52</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>NALLELY</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>BRAVO</td>
+	    <td>01AO6L</td>
+	    <td>TUTORÍAS</td>
+	    <td>44</td>
+	    <td>1</td>
+		<td>2.27</td>
+	    <td>97.73</td>
+	    <td>394.5</td>
+		<td>8.97</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>NALLELY</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>BRAVO</td>
+	    <td>01AO6K</td>
+	    <td>TUTORÍAS</td>
+	    <td>40</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>374.2</td>
+		<td>9.36</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>NALLELY</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>BRAVO</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>391</td>
+	    <td>4</td>
+		<td>1.02</td>
+	    <td>98.98</td>
+	    <td>3602.4</td>
+		<td>9.21</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>NOELIA</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>MAYORGA</td>
+	    <td>01V4G</td>
+	    <td>Conciencia histórica I. Perspectivas del México antiguo en los contextos globales</td>
+	    <td>34</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>304</td>
+		<td>8.94</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>NOELIA</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>MAYORGA</td>
+	    <td>01AJ4H</td>
+	    <td>Conciencia histórica I. Perspectivas del México antiguo en los contextos globales</td>
+	    <td>33</td>
+	    <td>4</td>
+		<td>12.12</td>
+	    <td>87.88</td>
+	    <td>287.5</td>
+		<td>8.71</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>NOELIA</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>MAYORGA</td>
+	    <td>01AJ4I</td>
+	    <td>Conciencia histórica I. Perspectivas del México antiguo en los contextos globales</td>
+	    <td>30</td>
+	    <td>4</td>
+		<td>13.33</td>
+	    <td>86.67</td>
+	    <td>256.7</td>
+		<td>8.56</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>NOELIA</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>MAYORGA</td>
+	    <td>01AJ4J</td>
+	    <td>Conciencia histórica I. Perspectivas del México antiguo en los contextos globales</td>
+	    <td>28</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>256.7</td>
+		<td>9.17</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>NOELIA</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>MAYORGA</td>
+	    <td>01P4K</td>
+	    <td>Conciencia histórica I. Perspectivas del México antiguo en los contextos globales</td>
+	    <td>38</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>351</td>
+		<td>9.24</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>NOELIA</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>MAYORGA</td>
+	    <td>01AE4M</td>
+	    <td>Conciencia histórica I. Perspectivas del México antiguo en los contextos globales</td>
+	    <td>36</td>
+	    <td>8</td>
+		<td>22.22</td>
+	    <td>77.78</td>
+	    <td>279.4</td>
+		<td>7.76</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>NOELIA</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>MAYORGA</td>
+	    <td>01A4A</td>
+	    <td>Conciencia histórica I. Perspectivas del México antiguo en los contextos globales</td>
+	    <td>30</td>
+	    <td>1</td>
+		<td>3.33</td>
+	    <td>96.67</td>
+	    <td>265.1</td>
+		<td>8.84</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>NOELIA</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>MAYORGA</td>
+	    <td>01AD4D</td>
+	    <td>Conciencia histórica I. Perspectivas del México antiguo en los contextos globales</td>
+	    <td>33</td>
+	    <td>4</td>
+		<td>12.12</td>
+	    <td>87.88</td>
+	    <td>265.6</td>
+		<td>8.05</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>NOELIA</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>MAYORGA</td>
+	    <td>01AD4E</td>
+	    <td>Conciencia histórica I. Perspectivas del México antiguo en los contextos globales</td>
+	    <td>37</td>
+	    <td>3</td>
+		<td>8.11</td>
+	    <td>91.89</td>
+	    <td>309.9</td>
+		<td>8.38</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>NOELIA</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>MAYORGA</td>
+	    <td>01V4F</td>
+	    <td>Conciencia histórica I. Perspectivas del México antiguo en los contextos globales</td>
+	    <td>37</td>
+	    <td>1</td>
+		<td>2.7</td>
+	    <td>97.3</td>
+	    <td>327</td>
+		<td>8.84</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>NOELIA</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>MAYORGA</td>
+	    <td>01AS6Q</td>
+	    <td>TEMAS DE CIENCIAS SOCIALES</td>
+	    <td>37</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>345.9</td>
+		<td>9.35</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>NOELIA</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>MAYORGA</td>
+	    <td>01AS6R</td>
+	    <td>TEMAS DE CIENCIAS SOCIALES</td>
+	    <td>23</td>
+	    <td>3</td>
+		<td>13.04</td>
+	    <td>86.96</td>
+	    <td>193.3</td>
+		<td>8.4</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>NOELIA</td>
+	    <td>HERNÁNDEZ</td>
+	    <td>MAYORGA</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>396</td>
+	    <td>28</td>
+		<td>7.07</td>
+	    <td>92.93</td>
+	    <td>3442.1</td>
+		<td>8.69</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>OSCAR</td>
+	    <td>GARCÍA</td>
+	    <td>PÉREZ</td>
+	    <td>01AJ2H</td>
+	    <td>I Diseña software de sistemas informáticos</td>
+	    <td>39</td>
+	    <td>5</td>
+		<td>12.82</td>
+	    <td>87.18</td>
+	    <td>298.6</td>
+		<td>7.66</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>OSCAR</td>
+	    <td>GARCÍA</td>
+	    <td>PÉREZ</td>
+	    <td>01AJ2J</td>
+	    <td>III Implementa software de sistemas informáticos</td>
+	    <td>38</td>
+	    <td>6</td>
+		<td>15.79</td>
+	    <td>84.21</td>
+	    <td>295.5</td>
+		<td>7.78</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>OSCAR</td>
+	    <td>GARCÍA</td>
+	    <td>PÉREZ</td>
+	    <td>01AJ6H</td>
+	    <td>Submódulo 1 Desarrolla aplicaciones móviles para Android</td>
+	    <td>41</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>399.9</td>
+		<td>9.75</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>OSCAR</td>
+	    <td>GARCÍA</td>
+	    <td>PÉREZ</td>
+	    <td>01AJ6I</td>
+	    <td>Submódulo 1 Desarrolla aplicaciones móviles para Android</td>
+	    <td>37</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>349.2</td>
+		<td>9.44</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>OSCAR</td>
+	    <td>GARCÍA</td>
+	    <td>PÉREZ</td>
+	    <td>01AJ6J</td>
+	    <td>Submódulo 1 Desarrolla aplicaciones móviles para Android</td>
+	    <td>37</td>
+	    <td>1</td>
+		<td>2.7</td>
+	    <td>97.3</td>
+	    <td>335.6</td>
+		<td>9.07</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>OSCAR</td>
+	    <td>GARCÍA</td>
+	    <td>PÉREZ</td>
+	    <td>01AJ4I</td>
+	    <td>Submódulo 2 Desarrolla aplicaciones que se ejecutan en el cliente</td>
+	    <td>30</td>
+	    <td>1</td>
+		<td>3.33</td>
+	    <td>96.67</td>
+	    <td>276.6</td>
+		<td>9.22</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>OSCAR</td>
+	    <td>GARCÍA</td>
+	    <td>PÉREZ</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>222</td>
+	    <td>13</td>
+		<td>5.86</td>
+	    <td>94.14</td>
+	    <td>1955.4</td>
+		<td>8.81</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>OSCAR</td>
+	    <td>OLGUÍN</td>
+	    <td>ZÚÑIGA</td>
+	    <td>01C4B</td>
+	    <td>I. Mantiene en operación circuitos de control electromagnético</td>
+	    <td>21</td>
+	    <td>17</td>
+		<td>80.95</td>
+	    <td>19.05</td>
+	    <td>123.6</td>
+		<td>5.89</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>OSCAR</td>
+	    <td>OLGUÍN</td>
+	    <td>ZÚÑIGA</td>
+	    <td>01C4C</td>
+	    <td>I. Mantiene en operación circuitos de control electromagnético</td>
+	    <td>21</td>
+	    <td>16</td>
+		<td>76.19</td>
+	    <td>23.81</td>
+	    <td>123</td>
+		<td>5.86</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>OSCAR</td>
+	    <td>OLGUÍN</td>
+	    <td>ZÚÑIGA</td>
+	    <td>01C2B</td>
+	    <td>II. Realiza instalaciones eléctricas</td>
+	    <td>32</td>
+	    <td>9</td>
+		<td>28.13</td>
+	    <td>71.87</td>
+	    <td>233.5</td>
+		<td>7.3</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>OSCAR</td>
+	    <td>OLGUÍN</td>
+	    <td>ZÚÑIGA</td>
+	    <td>01C2C</td>
+	    <td>II. Realiza instalaciones eléctricas</td>
+	    <td>27</td>
+	    <td>5</td>
+		<td>18.52</td>
+	    <td>81.48</td>
+	    <td>204.1</td>
+		<td>7.56</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>OSCAR</td>
+	    <td>OLGUÍN</td>
+	    <td>ZÚÑIGA</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>101</td>
+	    <td>47</td>
+		<td>46.53</td>
+	    <td>53.47</td>
+	    <td>684.2</td>
+		<td>6.77</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>RUBÉN</td>
+	    <td>QUIJADA</td>
+	    <td>ESCAMILLA</td>
+	    <td>01V4F</td>
+	    <td>I. APLICA EL CIERRE DE  LA CADENA DE SUMINISTRO DE MANERA PERSONALIZADA EN ESTABLECIMIENTOS DE COMERCIO AL POR MENOR</td>
+	    <td>37</td>
+	    <td>4</td>
+		<td>10.81</td>
+	    <td>89.19</td>
+	    <td>299.7</td>
+		<td>8.1</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>RUBÉN</td>
+	    <td>QUIJADA</td>
+	    <td>ESCAMILLA</td>
+	    <td>01V2F</td>
+	    <td>I. AUXILIA EN LA CAPTURA Y REGISTRO DE DOCUMENTOS CONTABLES DE UNA ORGANIZACIÓN</td>
+	    <td>47</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>393.9</td>
+		<td>8.38</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>RUBÉN</td>
+	    <td>QUIJADA</td>
+	    <td>ESCAMILLA</td>
+	    <td>01V2G</td>
+	    <td>I. AUXILIA EN LA CAPTURA Y REGISTRO DE DOCUMENTOS CONTABLES DE UNA ORGANIZACIÓN</td>
+	    <td>45</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>379.6</td>
+		<td>8.44</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>RUBÉN</td>
+	    <td>QUIJADA</td>
+	    <td>ESCAMILLA</td>
+	    <td>01V6G</td>
+	    <td>II. ASISTE EN LA ADMINISTRACIÓN DE UNA ORGANIZACIÓN</td>
+	    <td>43</td>
+	    <td>2</td>
+		<td>4.65</td>
+	    <td>95.35</td>
+	    <td>339.3</td>
+		<td>7.89</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>RUBÉN</td>
+	    <td>QUIJADA</td>
+	    <td>ESCAMILLA</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>172</td>
+	    <td>6</td>
+		<td>3.49</td>
+	    <td>96.51</td>
+	    <td>1412.5</td>
+		<td>8.21</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>SAULY ARGELIA</td>
+	    <td>CAMACHO</td>
+	    <td>GUERRERO</td>
+	    <td>01C6B</td>
+	    <td>PROBABILIDAD Y ESTADISTICA</td>
+	    <td>19</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>149.2</td>
+		<td>7.85</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>SAULY ARGELIA</td>
+	    <td>CAMACHO</td>
+	    <td>GUERRERO</td>
+	    <td>01C6C</td>
+	    <td>PROBABILIDAD Y ESTADISTICA</td>
+	    <td>16</td>
+	    <td>2</td>
+		<td>12.5</td>
+	    <td>87.5</td>
+	    <td>118.2</td>
+		<td>7.39</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>SAULY ARGELIA</td>
+	    <td>CAMACHO</td>
+	    <td>GUERRERO</td>
+	    <td>01V6G</td>
+	    <td>PROBABILIDAD Y ESTADISTICA</td>
+	    <td>43</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>363.2</td>
+		<td>8.45</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>SAULY ARGELIA</td>
+	    <td>CAMACHO</td>
+	    <td>GUERRERO</td>
+	    <td>01AJ6H</td>
+	    <td>PROBABILIDAD Y ESTADISTICA</td>
+	    <td>41</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>335.8</td>
+		<td>8.19</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>SAULY ARGELIA</td>
+	    <td>CAMACHO</td>
+	    <td>GUERRERO</td>
+	    <td>01AJ6I</td>
+	    <td>PROBABILIDAD Y ESTADISTICA</td>
+	    <td>37</td>
+	    <td>1</td>
+		<td>2.7</td>
+	    <td>97.3</td>
+	    <td>319.6</td>
+		<td>8.64</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>SAULY ARGELIA</td>
+	    <td>CAMACHO</td>
+	    <td>GUERRERO</td>
+	    <td>01AS6K</td>
+	    <td>TEMAS DE FISICA</td>
+	    <td>41</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>337.4</td>
+		<td>8.23</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>SAULY ARGELIA</td>
+	    <td>CAMACHO</td>
+	    <td>GUERRERO</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>197</td>
+	    <td>3</td>
+		<td>1.52</td>
+	    <td>98.48</td>
+	    <td>1623.4</td>
+		<td>8.24</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>YERITZIA</td>
+	    <td>CORTES</td>
+	    <td>PÉREZ</td>
+	    <td>01AD2D</td>
+	    <td>Inglés II</td>
+	    <td>43</td>
+	    <td>7</td>
+		<td>16.28</td>
+	    <td>83.72</td>
+	    <td>330.5</td>
+		<td>7.69</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>YERITZIA</td>
+	    <td>CORTES</td>
+	    <td>PÉREZ</td>
+	    <td>01AD2E</td>
+	    <td>Inglés II</td>
+	    <td>41</td>
+	    <td>11</td>
+		<td>26.83</td>
+	    <td>73.17</td>
+	    <td>306.4</td>
+		<td>7.47</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>YERITZIA</td>
+	    <td>CORTES</td>
+	    <td>PÉREZ</td>
+	    <td>01V2F</td>
+	    <td>Inglés II</td>
+	    <td>47</td>
+	    <td>6</td>
+		<td>12.77</td>
+	    <td>87.23</td>
+	    <td>378.3</td>
+		<td>8.05</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>YERITZIA</td>
+	    <td>CORTES</td>
+	    <td>PÉREZ</td>
+	    <td>01V2G</td>
+	    <td>Inglés II</td>
+	    <td>45</td>
+	    <td>5</td>
+		<td>11.11</td>
+	    <td>88.89</td>
+	    <td>377.3</td>
+		<td>8.38</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>YERITZIA</td>
+	    <td>CORTES</td>
+	    <td>PÉREZ</td>
+	    <td>01AJ2H</td>
+	    <td>Inglés II</td>
+	    <td>39</td>
+	    <td>5</td>
+		<td>12.82</td>
+	    <td>87.18</td>
+	    <td>301.4</td>
+		<td>7.73</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>YERITZIA</td>
+	    <td>CORTES</td>
+	    <td>PÉREZ</td>
+	    <td>01AJ2I</td>
+	    <td>Inglés II</td>
+	    <td>40</td>
+	    <td>4</td>
+		<td>10</td>
+	    <td>90</td>
+	    <td>325</td>
+		<td>8.13</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>YERITZIA</td>
+	    <td>CORTES</td>
+	    <td>PÉREZ</td>
+	    <td>01P2K</td>
+	    <td>Inglés II</td>
+	    <td>44</td>
+	    <td>5</td>
+		<td>11.36</td>
+	    <td>88.64</td>
+	    <td>362.1</td>
+		<td>8.23</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>YERITZIA</td>
+	    <td>CORTES</td>
+	    <td>PÉREZ</td>
+	    <td>01P2L</td>
+	    <td>Inglés II</td>
+	    <td>45</td>
+	    <td>2</td>
+		<td>4.44</td>
+	    <td>95.56</td>
+	    <td>384.2</td>
+		<td>8.54</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>YERITZIA</td>
+	    <td>CORTES</td>
+	    <td>PÉREZ</td>
+	    <td>01C2B</td>
+	    <td>Inglés II</td>
+	    <td>32</td>
+	    <td>1</td>
+		<td>3.13</td>
+	    <td>96.87</td>
+	    <td>259.1</td>
+		<td>8.1</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>YERITZIA</td>
+	    <td>CORTES</td>
+	    <td>PÉREZ</td>
+	    <td>01C2C</td>
+	    <td>Inglés II</td>
+	    <td>27</td>
+	    <td>2</td>
+		<td>7.41</td>
+	    <td>92.59</td>
+	    <td>207.6</td>
+		<td>7.69</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>YERITZIA</td>
+	    <td>CORTES</td>
+	    <td>PÉREZ</td>
+	    <td>01AE4M</td>
+	    <td>Inglés IV</td>
+	    <td>36</td>
+	    <td>1</td>
+		<td>2.78</td>
+	    <td>97.22</td>
+	    <td>316.3</td>
+		<td>8.79</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>YERITZIA</td>
+	    <td>CORTES</td>
+	    <td>PÉREZ</td>
+	    <td>01AO4M</td>
+	    <td>TUTORÍAS</td>
+	    <td>36</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>360</td>
+		<td>10</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>YERITZIA</td>
+	    <td>CORTES</td>
+	    <td>PÉREZ</td>
+	    <td>01AO2B</td>
+	    <td>TUTORÍAS</td>
+	    <td>32</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>320</td>
+		<td>10</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>YERITZIA</td>
+	    <td>CORTES</td>
+	    <td>PÉREZ</td>
+	    <td>01AO2C</td>
+	    <td>TUTORÍAS</td>
+	    <td>27</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>270</td>
+		<td>10</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>YERITZIA</td>
+	    <td>CORTES</td>
+	    <td>PÉREZ</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>534</td>
+	    <td>49</td>
+		<td>9.18</td>
+	    <td>90.82</td>
+	    <td>4498.2</td>
+		<td>8.42</td>
+    </tr>
+
+	  
+	      <tr>
+ 	    <td>  </td>
+	    <td>YURY</td>
+	    <td>SÁNCHEZ</td>
+	    <td>OLVERA</td>
+	    <td>01V6F</td>
+	    <td>I. ASISTE EN LA ELABORACIÓN DEL PLAN DE NEGOCIOS</td>
+	    <td>46</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>412</td>
+		<td>8.96</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>YURY</td>
+	    <td>SÁNCHEZ</td>
+	    <td>OLVERA</td>
+	    <td>01V6G</td>
+	    <td>I. ASISTE EN LA ELABORACIÓN DEL PLAN DE NEGOCIOS</td>
+	    <td>43</td>
+	    <td>1</td>
+		<td>2.33</td>
+	    <td>97.67</td>
+	    <td>338.6</td>
+		<td>7.87</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>YURY</td>
+	    <td>SÁNCHEZ</td>
+	    <td>OLVERA</td>
+	    <td>01V6F</td>
+	    <td>II. ASISTE EN LA ADMINISTRACIÓN DE UNA ORGANIZACIÓN</td>
+	    <td>46</td>
+	    <td>9</td>
+		<td>19.57</td>
+	    <td>80.43</td>
+	    <td>359.5</td>
+		<td>7.82</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>YURY</td>
+	    <td>SÁNCHEZ</td>
+	    <td>OLVERA</td>
+	    <td>01V4F</td>
+	    <td>II. ATIENDE Y PRESTA SERVICIO AL CLIENTE VERIFICANDO SU GRADO DE SATISFACCIÓN</td>
+	    <td>37</td>
+	    <td>1</td>
+		<td>2.7</td>
+	    <td>97.3</td>
+	    <td>311.1</td>
+		<td>8.41</td>
+    </tr>
+	      <tr>
+ 	    <td>  </td>
+	    <td>YURY</td>
+	    <td>SÁNCHEZ</td>
+	    <td>OLVERA</td>
+	    <td>01V4G</td>
+	    <td>II. ATIENDE Y PRESTA SERVICIO AL CLIENTE VERIFICANDO SU GRADO DE SATISFACCIÓN</td>
+	    <td>34</td>
+	    <td>0</td>
+		<td>0</td>
+	    <td>100</td>
+	    <td>307.7</td>
+		<td>9.05</td>
+    </tr>
+	  	  
+     <tr>
+ 	    <td>TOTAL</td>
+	    <td>YURY</td>
+	    <td>SÁNCHEZ</td>
+	    <td>OLVERA</td>
+	    <td>TOTAL</td>
+	    <td>TOTAL</td>
+	    <td>206</td>
+	    <td>11</td>
+		<td>5.34</td>
+	    <td>94.66</td>
+	    <td>1728.9</td>
+		<td>8.39</td>
+    </tr>
+
+	  
+	  </table>
+</body>
+</html>
+
